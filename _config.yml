@@ -1,1 +1,3 @@
 title: Informasi GEMASTIK 13 ITB
+plugins:
+    - jekyll-redirect-from

@@ -1,6 +1,9 @@
+---
 layout: page
 title: "Pemrograman"
 permalink: /pemrograman
+redirect_from: "/cp"
+---
 
 # Pemrograman
 
