@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Halo, warga ITB!
 
-You can use the [editor on GitHub](https://github.com/hmif-itb/gemastik.hmif.tech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Situs ini berisi informasi tentang ajang GEMASTIK 13 khusus untuk mahasiswa Institut Teknologi Bandung.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Apa itu GEMASTIK?
 
-### Markdown
+GEMASTIK atau Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi, merupakan program Kementerian Pendidikan dan Kebudayaan. Program ini ditujukan untuk meningkatkan kompetensi mahasiswa Indonesia, sehingga mampu mengambil peran sebagai agen perubahan dalam memajukan TIK dan pemanfaatannya, baik ketika masih dalam masa studi maupun kelak sesudah lulus studi.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Timeline GEMASTIK 13
+- Pendaftaran Perguruan Tinggi dan Tim: 20 Juli 2020 - 7 Agustus 2020
+- Pemanasan Pemrograman dan Keamanan Cyber: 5 September 2020
+- Penyisihan Pemrograman dan Keamanan Cyber: 19 September 2020
+- Batas Unggah Proposal Lomba bidang lain: 12 September 2020
+- Masa Penjurian Penyisihan: 13 - 22 September 2020
+- Pengumuman Babak Penyisihan: 24 September 2020
+- Babak Final & Puncak Acara: 21 - 24 Oktober 2020
 
-```markdown
-Syntax highlighted code block
+### Mata Lomba
+- [Pemrograman](pemrograman)
+- [Keamanan Siber](keamanan-siber)
+- [Penambangan Data](penambangan-data)
+- [Desain Pengalaman Pengguna](desain-pengalaman-pengguna)
+- [Animasi](animasi)
+- [Kota Cerdas](kota-cerdas)
+- [Karya Tulis Ilmiah](karya-tulis-ilmiah)
+- [Pengembangan Perangkat Lunak](pengembangan-perangkat-lunak)
+- [Piranti Cerdas, Sistem Benam & IoT](piranti-cerdas)
+- [Pengembangan Aplikasi Permainan](pengembangan-aplikasi-permainan)
+- [Pengembangan Bisnis TIK](pengembangan-bisnis-tik)
 
-# Header 1
-## Header 2
-### Header 3
+### Kontak
+Apabila kamu memiliki pertanyaan, atau ingin mencari anggota tim dari HMIF, kamu bisa menghubungi:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hmif-itb/gemastik.hmif.tech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Irfan (13517078@std.stei.itb.ac.id)
+- Zunan (13518019@std.stei.itb.ac.id)
