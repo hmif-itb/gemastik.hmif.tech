@@ -1,4 +1,6 @@
-## Halo, warga ITB!
+# Informasi Lomba GEMASTIK 13
+
+### Halo, warga ITB!
 
 Situs ini berisi informasi tentang ajang GEMASTIK 13 khusus untuk mahasiswa Institut Teknologi Bandung.
 
@@ -27,6 +29,11 @@ GEMASTIK atau Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komuni
 - [Piranti Cerdas, Sistem Benam & IoT](piranti-cerdas)
 - [Pengembangan Aplikasi Permainan](pengembangan-aplikasi-permainan)
 - [Pengembangan Bisnis TIK](pengembangan-bisnis-tik)
+
+### Pembimbingan Lomba dan ITB Online Hackathon
+Supaya kita bisa **#MakeITBGreatAgain**, DITMAWA dan Pusat AI ITB akan mengadakan pembimbingan bagi 6 tim di 8 mata lomba.
+Enam tim tersebut akan diseleksi melalui perlombaan ITB Online Hackathon.
+Detilnya dapat dilihat pada laman ini: [ITB Online Hackathon](hackathon).
 
 ### Kontak
 Apabila kamu memiliki pertanyaan, atau ingin mencari anggota tim dari HMIF, kamu bisa menghubungi:
