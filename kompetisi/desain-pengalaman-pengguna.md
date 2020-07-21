@@ -23,7 +23,7 @@ Skill set: UX Research, Interaction Design, Graphic Design
 
 ## Pembimbingan
 
-Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](/hackathon), berikut adalah deliverable untuk hackathon pada cabang ini: 
+Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](hackathon), berikut adalah deliverable untuk hackathon pada cabang ini: 
 
 - Pembuatan Mock Up (UI & UX Design) Usulan aplikasi
 Contoh judul pemenang lomba gemastik tahun lalu : Sudi Pengelolaan Uang Individu melalui Pendekatan User Centered-Design

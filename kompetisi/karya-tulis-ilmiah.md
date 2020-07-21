@@ -20,5 +20,5 @@ Skill set: Research, Problem Analysis, Scientific Writing
 - Babak Final: 21 - 24 Oktober 2020
 
 ## Pembimbingan
-Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](/hackathon), berikut adalah deliverable untuk hackathon pada cabang ini:
+Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](hackathon), berikut adalah deliverable untuk hackathon pada cabang ini:
 - Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
