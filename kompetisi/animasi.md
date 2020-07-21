@@ -19,6 +19,9 @@ Skill set: Creativity & imagination, Video Software Editing, Animation, Graphic 
 - Pengumuman Babak Penyisihan: 24 September 2020
 - Babak Final: 21 - 24 Oktober 2020
 
-## Deliverable ITB Online Hackathon
-Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2020
+## Pembimbingan
+
+Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](/hackathon), berikut adalah deliverable untuk hackathon pada cabang ini: 
+
+- Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2020
 Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual

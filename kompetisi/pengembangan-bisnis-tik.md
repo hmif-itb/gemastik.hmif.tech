@@ -19,7 +19,9 @@ Skill set: Problem Solving, Creativity, Analytical Skills, Communication, Presen
 - Pengumuman Babak Penyisihan: 24 September 2020
 - Babak Final: 21 - 24 Oktober 2020
 
+## Pembimbingan
 
-## Deliverable ITB Online Hackathon 
-Ringkasan eksekutif dari ide bisnis/start up/usaha yang berorientasi produk TIK, baik jasa maupun produk
+Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](/hackathon), berikut adalah deliverable untuk hackathon pada cabang ini:
+
+- Ringkasan eksekutif dari ide bisnis/start up/usaha yang berorientasi produk TIK, baik jasa maupun produk
 Business canvas model

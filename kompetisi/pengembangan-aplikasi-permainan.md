@@ -19,8 +19,11 @@ Skill set: Creativity, Programming, Game Engine, Visual Design
 - Pengumuman Babak Penyisihan: 24 September 2020
 - Babak Final: 21 - 24 Oktober 2020
 
-## Deliverable ITB Online Hackathon 
-Membuat prototype Game Bersifat Edukatif
+## Pembimbingan
+
+Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](/hackathon), berikut adalah deliverable untuk hackathon pada cabang ini:
+
+- Membuat prototype Game Bersifat Edukatif
 Yang dikumpulkan : proposal story board
 (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
 Kriteria: keseruan game, art dan teknis yang bagus

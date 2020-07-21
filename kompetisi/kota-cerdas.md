@@ -18,6 +18,8 @@ Skill set: Problem Analysis, Prototyping, Analytical Skills, Writing Skills, Com
 - Pengumuman Babak Penyisihan: 24 September 2020
 - Babak Final: 21 - 24 Oktober 2020
 
-## Deliverable ITB Online Hackathon
-Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2020 
+## Pembimbingan
+
+Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](/hackathon), berikut adalah deliverable untuk hackathon pada cabang ini:
+- Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2020 
 Dokumen yang dikumpulkan adalah proposal dan PPT yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan

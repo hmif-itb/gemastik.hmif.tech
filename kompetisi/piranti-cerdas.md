@@ -22,5 +22,8 @@ Skill set: Programming, IoT, AI & Machine Learning, Microcontroller
 - Pengumuman Babak Penyisihan: 24 September 2020
 - Babak Final: 21 - 24 Oktober 2020
 
-## Deliverable ITB Online Hackathon 
-Dokumen ide dan desain (jika ada prototype, akan lebik baik)
+## Pembimbingan
+
+Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](/hackathon), berikut adalah deliverable untuk hackathon pada cabang ini:
+
+- Dokumen ide dan desain (jika ada prototype, akan lebik baik)
