@@ -107,5 +107,5 @@ deskripsi data,
 rencana eksperimen termasuk usulan topologi
 
 ## Contact Person
-- WA 08112334569 / Line mzunana / Email 13518019@std.stei.itb.ac.id
-- WA 08111237878 / Line irfan_sofyana / Email 13517078@std.stei.itb.ac.id
+- Zunan: WA 08112334569 / Line mzunana / Email 13518019@std.stei.itb.ac.id
+- Irfan: WA 08111237878 / Line irfan_sofyana / Email 13517078@std.stei.itb.ac.id
