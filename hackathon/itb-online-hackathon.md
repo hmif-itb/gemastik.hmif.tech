@@ -13,7 +13,7 @@ permalink: /hackathon
 
 ## Hadiah
 - Bimbingan untuk mengikuti Gemastik untuk 6 besar di setiap bidang
-- Total Hadiah: Rp. 48.0000.000,00
+- Total Hadiah: Rp. 48.000.000,00
 
 ## Bidang 
 
