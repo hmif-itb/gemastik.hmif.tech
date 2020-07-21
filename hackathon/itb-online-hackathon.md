@@ -55,7 +55,7 @@ Piranti cerdas (smart device) adalah sebuah hasil karya teknologi yang bekerja s
 Sementara itu sistem benam (embedded system) adalah sebuah piranti keras (hardware) yang bekerja berdasarkan perintah dari piranti lunak(software) dan didesain memiliki tujuan dan fungsi yang spesifik.
 Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dapat terciptanya sebuah sistem kompleks dengan kualitas yang baik. Dilengkapi antarmuka yang baik dan penggunaan sensor sebagai input dari keadaan lingkungan, piranti cerdas dapat bekerja secara efisien dan memberikan manfaat yang besar bagi lingkungan dan masyarakat.
 
-#### Deliverable 
+#### Deliverable ITB Online Hackathon 
 Dokumen ide dan desain (jika ada prototype, akan lebik baik)
 
 ### Game Development
@@ -63,7 +63,7 @@ Dokumen ide dan desain (jika ada prototype, akan lebik baik)
 #### Deskripsi
 Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan berinovasi mengembangkan aplikasi permainan yang mampu berjalan dengan baik untuk memenuhi tujuan yang dicapai, memperlihatkan sisi pendidikan, mempunyai dampak dan manfaat, sekaligus mengandung unsur menghibur (entertainment value) dari sebuah permainan.
 
-#### Deliverable 
+#### Deliverable ITB Online Hackathon 
 Membuat prototype Game Bersifat Edukatif
 Yang dikumpulkan : proposal story board
 (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
@@ -74,7 +74,7 @@ Kriteria: keseruan game, art dan teknis yang bagus
 #### Deskripsi
 Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK. Lomba ini memberikan kesempatan kepada peserta yang memiliki ide bisnis, start up dan pengembangan usaha yang berorientasi pada produk TIK, baik berupa jasa dan produk. Lomba ini akan menyeleksi ide pengembangan bisnis dalam bentuk ringkasan eksekutif pada penyisihan tahap pertama, kemudian business plan pada penyisihan tahap kedua, dan kompetisi produk beserta proyeksi bisnisnya
 
-#### Deliverable 
+#### Deliverable ITB Online Hackathon 
 Ringkasan eksekutif dari ide bisnis/start up/usaha yang berorientasi produk TIK, baik jasa maupun produk
 Business canvas model
 
@@ -83,7 +83,7 @@ Business canvas model
 #### Deskripsi
 Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya tulis mahasiswa dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penulisan ilmiah.
 
-#### Deliverable
+#### Deliverable ITB Online Hackathon
 Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
 
 ### Data Mining
@@ -97,7 +97,7 @@ Dengan adanya konvergensi antara deep learning dan big data telah terbukti mampu
 Para peserta lomba diharapkan mampu melakukan proses Penambangan Data terhadap big data yang tersedia secara publik di web serta sudah terverifikasi validitasnya. 
 Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Data tersebut sehingga berguna bagi masyarakat luas.
 
-#### Deliverable ITB Online Hackathon:
+#### Deliverable ITB Online Hackathon
 Mencari data yang relevan terhadap spesifikasi Gemastik 2020 (lomba level nasional)
 Melakukan studi literatur untuk data dan teknik deep learning terkait
 Mengusulkan topologi & eksperimen
