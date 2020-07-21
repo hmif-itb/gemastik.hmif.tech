@@ -31,9 +31,8 @@ GEMASTIK atau Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komuni
 - [Pengembangan Bisnis TIK](pengembangan-bisnis-tik)
 
 ### Pembimbingan Lomba dan ITB Online Hackathon
-Supaya kita bisa **#MakeITBGreatAgain**, DITMAWA, Pusat AI ITB, dan HMIF ITB akan mengadakan pembimbingan bagi 6 tim di 8 mata lomba.
-Enam tim tersebut akan diseleksi melalui perlombaan ITB Online Hackathon.
-Detilnya dapat dilihat pada laman ini: [ITB Online Hackathon](hackathon).
+Supaya kita bisa **#MakeITBGreatAgain**, DITMAWA, Pusat AI ITB, dan HMIF ITB akan mengadakan bimbingan untuk semua bidang lomba. 
+Terkhusus 8 bidang lomba, Anda diwajibkan untuk mengikuti ITB Online Hackathon (hackathon 7 hari) yang detailnya dapat dilihat pada laman ini: [ITB Online Hackathon](hackathon).
 
 ### Kontak
 Apabila kamu memiliki pertanyaan, atau ingin mencari anggota tim dari HMIF, kamu bisa menghubungi:
