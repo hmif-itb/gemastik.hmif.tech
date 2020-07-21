@@ -15,6 +15,11 @@ permalink: /hackathon
 - Bimbingan untuk mengikuti Gemastik untuk 6 besar di setiap bidang
 - Total Hadiah: Rp. 48.000.000,00
 
+## Problem Statement
+Semua Problem Statemnet dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2020 dengan deliverables yang lebih sederhana.
+- (Spesifikasi Gemastik 2019)[http://google.com]
+- Spesifikasi Gemastik 2020 (terjadi keterlambatan dari panitia)
+
 ## 8 Bidang Hackathon
 1. UX Design
 2. Animation
