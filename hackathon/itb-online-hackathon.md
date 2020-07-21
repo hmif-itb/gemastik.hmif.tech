@@ -17,7 +17,7 @@ permalink: /hackathon
 
 ## Problem Statement
 Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2020 dengan deliverables yang lebih sederhana. <br/>
-Spesifikasi Gemastik : [Panduan Gemastik 13](https://cdn-gemastik12.telkomuniversity.ac.id/Panduan_Gemastik13.pdf)
+Spesifikasi Gemastik : [Panduan Gemastik 13 tahun 2020](https://cdn-gemastik12.telkomuniversity.ac.id/Panduan_Gemastik13.pdf)
 
 ## 8 Bidang Hackathon
 1. UX Design
