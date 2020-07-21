@@ -7,21 +7,24 @@ permalink: /hackathon
 # ITB Online Hackathon: Pra-Gemastik 13
 
 ## Timeline
-- Batas Pendaftaran 24 Juli pukul 18.00
-- Online hackathon : 25 Juli 2020 pukul 9.00 - 3 Agustus 2020 pukul 12..00
-- Pengumuman pemenang : 5 Agustus 2020
+- Batas Pendaftaran: 24 Juli pukul 18.00
+- Online Hackathon: 25 Juli 2020 pukul 09.00 - 3 Agustus 2020 pukul 12.00
+- Pengumuman Pemenang: 5 Agustus 2020
 
 ## Hadiah
 - Bimbingan untuk mengikuti Gemastik untuk 6 besar di setiap bidang
 - Total Hadiah: Rp. 48.000.000,00
 
 ## Pendaftaran
-Pendaftaran bisa diakses pada laman ini : [Pendaftaran ITB Online Hackathon Pra-GEMASTIK](https://bit.ly/ITB-PraGemastik2020)
+Pendaftaran bisa diakses pada laman ini: [Pendaftaran ITB Online Hackathon Pra-GEMASTIK](https://bit.ly/ITB-PraGemastik2020)
 
 ## Problem Statement
-Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2020 dengan deliverables yang lebih sederhana. <br/>
-Spesifikasi Gemastik : [Panduan Gemastik 13 tahun 2020](https://cdn-gemastik12.telkomuniversity.ac.id/Panduan_Gemastik13.pdf) <br/>
-[Alternatif link panduan](https://gemastik.hmif.tech/assets/Panduan_Gemastik12.pdf)
+Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2020 dengan deliverables yang lebih sederhana.
+
+
+Spesifikasi Gemastik: 
+- [Panduan Gemastik 13 Tahun 2020](https://cdn-gemastik12.telkomuniversity.ac.id/Panduan_Gemastik13.pdf)
+- [Alternatif link panduan](https://gemastik.hmif.tech/assets/Panduan_Gemastik12.pdf)
 
 ## 8 Bidang Hackathon
 1. UX Design
@@ -33,7 +36,7 @@ Spesifikasi Gemastik : [Panduan Gemastik 13 tahun 2020](https://cdn-gemastik12.t
 7. Karya Tulis Ilmiah TIK
 8. Data Mining
 
-## Detail Setiap Bidang Bidang 
+## Detail Setiap Bidang Lomba 
 
 ### UX Design
 
@@ -82,8 +85,8 @@ Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dap
 Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan berinovasi mengembangkan aplikasi permainan yang mampu berjalan dengan baik untuk memenuhi tujuan yang dicapai, memperlihatkan sisi pendidikan, mempunyai dampak dan manfaat, sekaligus mengandung unsur menghibur (entertainment value) dari sebuah permainan.
 
 #### Deliverable ITB Online Hackathon 
-- Membuat prototype Game Bersifat Edukatif
-- Yang dikumpulkan : proposal story board
+- Membuat prototype game yang bersifat edukatif
+- Yang dikumpulkan: proposal story board
 - Kriteria: keseruan game, art dan teknis yang bagus
 (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
 
@@ -102,7 +105,9 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya tulis mahasiswa dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penulisan ilmiah.
 
 #### Deliverable ITB Online Hackathon
-- Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
+- Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. 
+  - Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. 
+  - Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
 
 ### Data Mining
 

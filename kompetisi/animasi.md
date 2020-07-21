@@ -21,7 +21,7 @@ Skill set: Creativity & imagination, Video Software Editing, Animation, Graphic 
 
 ## Pembimbingan
 
-Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](hackathon), berikut adalah deliverable untuk hackathon pada cabang ini: 
+Untuk cabang lomba ini, ITB mengadakan pembimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](hackathon), berikut adalah deliverable untuk hackathon pada cabang ini: 
 
 - Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2020
-Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
+- Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual

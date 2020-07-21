@@ -21,9 +21,9 @@ Skill set: Creativity, Programming, Game Engine, Visual Design
 
 ## Pembimbingan
 
-Untuk cabang lomba ini, ITB mengadakan penbimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](hackathon), berikut adalah deliverable untuk hackathon pada cabang ini:
+Untuk cabang lomba ini, ITB mengadakan pembimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](hackathon), berikut adalah deliverable untuk hackathon pada cabang ini:
 
-- Membuat prototype Game Bersifat Edukatif
-Yang dikumpulkan : proposal story board
+- Membuat prototype game yang bersifat edukatif
+- Yang dikumpulkan: proposal story board
+- Kriteria: keseruan game, art dan teknis yang bagus
 (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
-Kriteria: keseruan game, art dan teknis yang bagus

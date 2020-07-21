@@ -8,6 +8,9 @@ Situs ini berisi informasi tentang ajang GEMASTIK 13 khusus untuk mahasiswa Inst
 
 GEMASTIK atau Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi, merupakan program Kementerian Pendidikan dan Kebudayaan. Program ini ditujukan untuk meningkatkan kompetensi mahasiswa Indonesia, sehingga mampu mengambil peran sebagai agen perubahan dalam memajukan TIK dan pemanfaatannya, baik ketika masih dalam masa studi maupun kelak sesudah lulus studi.
 
+
+Situs resmi GEMASTIK 13: [gemastik13.telkomuniversity.ac.id](https://gemastik13.telkomuniversity.ac.id/)
+
 ### Timeline GEMASTIK 13
 - Pendaftaran Perguruan Tinggi dan Tim: 20 Juli 2020 - 7 Agustus 2020
 - Pemanasan Pemrograman dan Keamanan Cyber: 5 September 2020
@@ -37,5 +40,5 @@ Terkhusus 8 bidang lomba, Anda diwajibkan untuk mengikuti ITB Online Hackathon P
 ### Kontak
 Apabila kamu memiliki pertanyaan, atau ingin mencari anggota tim dari HMIF, kamu bisa menghubungi:
 
-- Irfan (13517078@std.stei.itb.ac.id)
-- Zunan (13518019@std.stei.itb.ac.id)
+- Zunan: WA 08112334569 / Line mzunana / Email 13518019@std.stei.itb.ac.id
+- Irfan: WA 08111237878 / Line irfan_sofyana / Email 13517078@std.stei.itb.ac.id
