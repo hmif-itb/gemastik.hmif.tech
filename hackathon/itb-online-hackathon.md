@@ -35,7 +35,7 @@ Dalam lomba ini yang menjadi fokus utama adalah pengalaman yang dirasakan penggu
 Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang baik dengan menggunakan metode, sehingga didapatkan hasil desain aplikasi yang memiliki kualitas UX yang baik.
 
 #### Deliverable ITB Online Hackathon
-* Pembuatan Mock Up (UI & UX Design) Usulan aplikasi
+- Pembuatan Mock Up (UI & UX Design) Usulan aplikasi
 
 
 ### Animation
@@ -44,8 +44,8 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D yang mengandung unsur kreativitas dan inovasi pemuda untuk menciptakan masyarakat yang berdikari, sehat serta mandiri berbasis TIK untuk kedaulatan bangsa, sebagai elemen penting dalam karya cipta tersebut. Karya berbentuk film pendek dari bentuk digital animation.
 
 #### Deliverable ITB Online Hackathon
-* Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2020
-* Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
+- Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2020
+- Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
 
 ### Smart City
 
@@ -55,8 +55,8 @@ Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berba
 
 
 #### Deliverable ITB Online Hackathon
-* Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2020 
-* Dokumen yang dikumpulkan adalah proposal dan PPT yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
+- Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2020 
+- Dokumen yang dikumpulkan adalah proposal dan PPT yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
 
 ### Smart Device, Embedded System & IoT
 
@@ -66,7 +66,7 @@ Sementara itu sistem benam (embedded system) adalah sebuah piranti keras (hardwa
 Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dapat terciptanya sebuah sistem kompleks dengan kualitas yang baik. Dilengkapi antarmuka yang baik dan penggunaan sensor sebagai input dari keadaan lingkungan, piranti cerdas dapat bekerja secara efisien dan memberikan manfaat yang besar bagi lingkungan dan masyarakat.
 
 #### Deliverable ITB Online Hackathon 
-* Dokumen ide dan desain (jika ada prototype, akan lebik baik)
+- Dokumen ide dan desain (jika ada prototype, akan lebik baik)
 
 ### Game Development
 
@@ -74,9 +74,9 @@ Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dap
 Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan berinovasi mengembangkan aplikasi permainan yang mampu berjalan dengan baik untuk memenuhi tujuan yang dicapai, memperlihatkan sisi pendidikan, mempunyai dampak dan manfaat, sekaligus mengandung unsur menghibur (entertainment value) dari sebuah permainan.
 
 #### Deliverable ITB Online Hackathon 
-* Membuat prototype Game Bersifat Edukatif
-* Yang dikumpulkan : proposal story board
-*Kriteria: keseruan game, art dan teknis yang bagus
+- Membuat prototype Game Bersifat Edukatif
+- Yang dikumpulkan : proposal story board
+- Kriteria: keseruan game, art dan teknis yang bagus
 (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
 
 ### ICT Business Development
@@ -85,8 +85,8 @@ Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan beri
 Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK. Lomba ini memberikan kesempatan kepada peserta yang memiliki ide bisnis, start up dan pengembangan usaha yang berorientasi pada produk TIK, baik berupa jasa dan produk. Lomba ini akan menyeleksi ide pengembangan bisnis dalam bentuk ringkasan eksekutif pada penyisihan tahap pertama, kemudian business plan pada penyisihan tahap kedua, dan kompetisi produk beserta proyeksi bisnisnya
 
 #### Deliverable ITB Online Hackathon 
-* Ringkasan eksekutif dari ide bisnis/start up/usaha yang berorientasi produk TIK, baik jasa maupun produk
-* Business canvas model
+- Ringkasan eksekutif dari ide bisnis/start up/usaha yang berorientasi produk TIK, baik jasa maupun produk
+- Business canvas model
 
 ### Karya Tulis Ilmiah TIK
 
@@ -94,7 +94,7 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya tulis mahasiswa dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penulisan ilmiah.
 
 #### Deliverable ITB Online Hackathon
-* Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
+- Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
 
 ### Data Mining
 
@@ -108,13 +108,13 @@ Para peserta lomba diharapkan mampu melakukan proses Penambangan Data terhadap b
 Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Data tersebut sehingga berguna bagi masyarakat luas.
 
 #### Deliverable ITB Online Hackathon
-* Mencari data yang relevan terhadap spesifikasi Gemastik 2020 (lomba level nasional)
-* Melakukan studi literatur untuk data dan teknik deep learning terkait
-* Mengusulkan topologi & eksperimen
-*Dokumen yang dikumpulkan harus berisi:
-  * latar belakang pemilihan data dikaitkan dengan spesifikasi Gemastik 2020,
-  * deskripsi data,
-  * rencana eksperimen termasuk usulan topologi
+- Mencari data yang relevan terhadap spesifikasi Gemastik 2020 (lomba level nasional)
+- Melakukan studi literatur untuk data dan teknik deep learning terkait
+- Mengusulkan topologi & eksperimen
+- Dokumen yang dikumpulkan harus berisi:
+  - latar belakang pemilihan data dikaitkan dengan spesifikasi Gemastik 2020,
+  - deskripsi data,
+  - rencana eksperimen termasuk usulan topologi
 
 ## Contact Person
 - Zunan: WA 08112334569 / Line mzunana / Email 13518019@std.stei.itb.ac.id
