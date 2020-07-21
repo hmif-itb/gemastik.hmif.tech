@@ -15,6 +15,9 @@ permalink: /hackathon
 - Bimbingan untuk mengikuti Gemastik untuk 6 besar di setiap bidang
 - Total Hadiah: Rp. 48.000.000,00
 
+## Pendaftaran
+Pendaftaran bisa diakses pada laman ini : [Pendaftaran ITB Online Hackathon Pra-GEMASTIK](https://bit.ly/ITB-PraGemastik2020)
+
 ## Problem Statement
 Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2020 dengan deliverables yang lebih sederhana. <br/>
 Spesifikasi Gemastik : [Panduan Gemastik 13 tahun 2020](https://cdn-gemastik12.telkomuniversity.ac.id/Panduan_Gemastik13.pdf)
@@ -27,7 +30,7 @@ Spesifikasi Gemastik : [Panduan Gemastik 13 tahun 2020](https://cdn-gemastik12.t
 5. Game Development
 6. ICT Business Development
 7. Karya Tulis Ilmiah TIK
-8.Data Mining
+8. Data Mining
 
 ## Detail Setiap Bidang Bidang 
 
