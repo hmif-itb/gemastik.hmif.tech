@@ -23,8 +23,7 @@ Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi G
 
 
 Spesifikasi Gemastik: 
-- [Panduan Gemastik 13 Tahun 2020](https://cdn-gemastik12.telkomuniversity.ac.id/Panduan_Gemastik13.pdf)
-- [Alternatif link panduan](https://gemastik.hmif.tech/assets/Panduan_Gemastik12.pdf)
+- [Panduan Gemastik 13 Tahun 2020](https://gemastik.hmif.tech/assets/Panduan_Gemastik13.pdf)
 
 ## 8 Bidang Hackathon
 1. UX Design
