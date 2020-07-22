@@ -36,6 +36,10 @@ Spesifikasi Gemastik:
 7. Karya Tulis Ilmiah TIK
 8. Data Mining
 
+## Referensi Judul Karya
+Judul karya para pemenang GEMASTIK 12 (2019) dapat dilihat di [sini.](https://gemastik12.telkomuniversity.ac.id/dashboard/landing/peringkat-kompetisi)
+Note : beberapa cabang lomba terdapat video penjelasan karya terkait. Video dapat dicari dengan kata kunci "Gemastik 12 <Judul Karya>" pada laman pencarian Youtube.
+
 ## Detail Setiap Bidang Lomba 
 
 ### UX Design
