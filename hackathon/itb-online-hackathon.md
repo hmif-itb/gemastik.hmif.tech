@@ -71,6 +71,7 @@ Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berba
 #### Deliverable ITB Online Hackathon
 - Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2020 
 - Dokumen yang dikumpulkan adalah proposal dan PPT yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
+- Detail dapat dilihat di : [Detail Deliverable Online Hackathon Smart City](https://gemastik.hmif.tech/assets/Panduan%20Pra%20Gemastik%20Smart%20City%20untuk%20Peserta.docx.pdf)
 
 ### Smart Device, Embedded System & IoT
 
@@ -81,6 +82,7 @@ Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dap
 
 #### Deliverable ITB Online Hackathon 
 - Dokumen ide dan desain (jika ada prototype, akan lebik baik)
+- Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas.docx.pdf)
 
 ### Game Development
 
