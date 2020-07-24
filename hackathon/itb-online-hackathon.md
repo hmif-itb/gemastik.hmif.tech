@@ -91,7 +91,7 @@ Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan beri
 
 #### Deliverable ITB Online Hackathon 
 - Membuat prototype game yang bersifat edukatif
-- Yang dikumpulkan: proposal story board
+- Yang dikumpulkan: game design document
 - Kriteria: keseruan game, art dan teknis yang bagus
 (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
 
