@@ -56,7 +56,10 @@ Dalam lomba ini yang menjadi fokus utama adalah pengalaman yang dirasakan penggu
 Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang baik dengan menggunakan metode, sehingga didapatkan hasil desain aplikasi yang memiliki kualitas UX yang baik.
 
 #### Deliverable ITB Online Hackathon
-- Pembuatan Mock Up (UI & UX Design) Usulan aplikasi
+- Proposal
+- Video (Max 7 menit)
+- Poster
+- Detail Deliverables dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
 - Untuk pertanyaan lebih lanjut, bisa contak Bu Ginar melalui email ginar@informatika.org
 
 
