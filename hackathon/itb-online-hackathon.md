@@ -5,12 +5,15 @@ permalink: /hackathon
 ---
 
 # ITB Online Hackathon: Pra-Gemastik 13
-# !!! Pendaftaran Diperpanjang Sampai Submission (3 Agustus 2020) !!!
+# !!! Pendaftaran Diperpanjang Sampai Pengumpulan Bidang Terkait !!!
 
-## Timeline
-- Batas Pendaftaran: 3 Agustus 2020 pukul 12.00
-- Online Hackathon: 25 Juli 2020 pukul 09.00 - 3 Agustus 2020 pukul 12.00
-- Pengumuman Pemenang: 5 Agustus 2020
+## Timeline [Updated]
+- Batas Pengumpulan Bisnis TIK, Smart City, Karya Tulis Ilmaih TIK : **Sabtu, 1 Agustus 2020 pukul 18.00 WIB**
+- Batas Pengumpulan UX Design, Animasi, Smart Device / Embedded System / IoT , Data Mining, Game Developmet : **Senin, 3 Agustus 2020 pukul 12.00 WIB**
+- Presentasi : Minggu 2 Agustus 2020
+  - 9.00 WIB : Smart City & Karya Tulis TIK
+  - 16.00 WIB : Bisnis TIK
+- Pengumuman Pemenang: 5 Agustus 2020 pukul 12.00
 
 ## Hadiah
 - Bimbingan untuk mengikuti Gemastik untuk 6 besar di setiap bidang
@@ -85,7 +88,7 @@ Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dap
 
 #### Deliverable ITB Online Hackathon 
 - Dokumen ide dan desain (jika ada prototype, akan lebik baik)
-- Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas.docx.pdf)
+- Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas2.pdf) (updated 25 Juli)
 - Jika ada  pertanyaan lebih lanjut silahka bisa ditanyakan di email : kusprasapta.mutijarsa@gmail.com
 
 ### 5. Game Development
