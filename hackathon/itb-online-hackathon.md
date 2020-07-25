@@ -5,9 +5,10 @@ permalink: /hackathon
 ---
 
 # ITB Online Hackathon: Pra-Gemastik 13
+# !!! Pendaftaran Diperpanjang Sampai Submission (3 Agustus 2020) !!!
 
 ## Timeline
-- Batas Pendaftaran: 24 Juli pukul 18.00
+- Batas Pendaftaran: 3 Agustus 2020 pukul 12.00
 - Online Hackathon: 25 Juli 2020 pukul 09.00 - 3 Agustus 2020 pukul 12.00
 - Pengumuman Pemenang: 5 Agustus 2020
 
