@@ -60,6 +60,7 @@ Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D
 #### Deliverable ITB Online Hackathon
 - Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2020
 - Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
+- Detail dapat dilihat di : [Detail Deliverable Online Hackathon Animasi](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Animasi.pdf)
 
 ### Smart City
 
@@ -113,6 +114,7 @@ Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya
 - Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. 
   - Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. 
   - Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
+  - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Bisnis TIK](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Pengembangan%20Bisnis%20TIK.pdf)
 
 ### Data Mining
 
