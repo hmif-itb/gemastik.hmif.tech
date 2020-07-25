@@ -42,7 +42,7 @@ Note : beberapa cabang lomba terdapat video penjelasan karya terkait. Video dapa
 
 ## Detail Setiap Bidang Lomba 
 
-### UX Design
+### 1. UX Design
 
 #### Deskripsi
 Lomba Desain Pengalaman Pengguna (UX Design) adalah lomba desain interaksi produk yang berorientasi pada kenyamanan dan kemudahan bagi pengguna. 
@@ -53,7 +53,7 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 - Pembuatan Mock Up (UI & UX Design) Usulan aplikasi
 
 
-### Animation
+### 2. Animation
 
 #### Deskripsi
 Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D yang mengandung unsur kreativitas dan inovasi pemuda untuk menciptakan masyarakat yang berdikari, sehat serta mandiri berbasis TIK untuk kedaulatan bangsa, sebagai elemen penting dalam karya cipta tersebut. Karya berbentuk film pendek dari bentuk digital animation.
@@ -63,7 +63,7 @@ Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D
 - Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
 - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Animasi](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Animasi.pdf)
 
-### Smart City
+### 3. Smart City
 
 #### Deskripsi
 Kota cerdas atau smart city adalah suatu konsep mengenai pemanfaatan data untuk mengelola kota/melayani masyarakat. Inovasi kota cerdas dirancang guna melayani dan membantu kegiatan masyarakat, terutama dalam mengelola sumber daya secara efisien dan memberikan kemudahan akses informasi kepada masyarakat hingga untuk mengantisipasi kejadian yang tidak terduga.
@@ -75,7 +75,7 @@ Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berba
 - Dokumen yang dikumpulkan adalah proposal dan PPT yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
 - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Smart City](https://gemastik.hmif.tech/assets/Panduan%20Pra%20Gemastik%20Smart%20City%20untuk%20Peserta.docx.pdf)
 
-### Smart Device, Embedded System & IoT
+### 4. Smart Device, Embedded System & IoT
 
 #### Deskripsi
 Piranti cerdas (smart device) adalah sebuah hasil karya teknologi yang bekerja secara interaktif, adaptif, dan otomatis, sehingga mampu memberikan solusi bagi permasalahan sehari-hari. Tingkat kecerdasan suatu piranti dapat dicapai dengan memanfaatkan suatu kecerdasan buatan (artificial intelligence) yang sesuai kebutuhan pemecahan masalah.
@@ -85,8 +85,9 @@ Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dap
 #### Deliverable ITB Online Hackathon 
 - Dokumen ide dan desain (jika ada prototype, akan lebik baik)
 - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas.docx.pdf)
+- Jika ada  pertanyaan lebih lanjut silahka bisa ditanyakan di email : kusprasapta.mutijarsa@gmail.com
 
-### Game Development
+### 5. Game Development
 
 #### Deskripsi
 Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan berinovasi mengembangkan aplikasi permainan yang mampu berjalan dengan baik untuk memenuhi tujuan yang dicapai, memperlihatkan sisi pendidikan, mempunyai dampak dan manfaat, sekaligus mengandung unsur menghibur (entertainment value) dari sebuah permainan.
@@ -97,7 +98,7 @@ Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan beri
 - Kriteria: keseruan game, art dan teknis yang bagus
 (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
 
-### ICT Business Development
+### 6. ICT Business Development
 
 #### Deskripsi
 Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK. Lomba ini memberikan kesempatan kepada peserta yang memiliki ide bisnis, start up dan pengembangan usaha yang berorientasi pada produk TIK, baik berupa jasa dan produk. Lomba ini akan menyeleksi ide pengembangan bisnis dalam bentuk ringkasan eksekutif pada penyisihan tahap pertama, kemudian business plan pada penyisihan tahap kedua, dan kompetisi produk beserta proyeksi bisnisnya
@@ -106,7 +107,7 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 - Ringkasan eksekutif dari ide bisnis/start up/usaha yang berorientasi produk TIK, baik jasa maupun produk
 - Business canvas model
 
-### Karya Tulis Ilmiah TIK
+### 7. Karya Tulis Ilmiah TIK
 
 #### Deskripsi
 Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya tulis mahasiswa dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penulisan ilmiah.
@@ -117,7 +118,7 @@ Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya
   - Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Bisnis TIK](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Pengembangan%20Bisnis%20TIK.pdf)
 
-### Data Mining
+### 8. Data Mining
 
 #### Deskripsi
 Penambangan Data yang semakin banyak menarik perhatian baik di kalangan industri maupun akademik dunia dewasa ini, terutama dengan penggunaan deep learning yang merupakan suatu algoritma mutakhir. 
