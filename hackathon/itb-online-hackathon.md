@@ -51,6 +51,7 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 
 #### Deliverable ITB Online Hackathon
 - Pembuatan Mock Up (UI & UX Design) Usulan aplikasi
+- Untuk pertanyaan lebih lanjut, bisa contak Bu Ginar melalui email ginar@informatika.org
 
 
 ### 2. Animation
