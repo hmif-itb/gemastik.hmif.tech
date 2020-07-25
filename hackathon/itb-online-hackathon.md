@@ -15,6 +15,10 @@ permalink: /hackathon
   - 16.00 WIB : Bisnis TIK
 - Pengumuman Pemenang: 5 Agustus 2020 pukul 12.00
 
+## Rekaman TM dan Detail Lomba (Rangkuman)
+- Rekamam TM Beberapa Cabang lomba dapat diakses [disini](https://itbdsti-my.sharepoint.com/:f:/g/personal/ulfa_office_itb_ac_id/EormfZy7NDdBl7c9JB8hxScBzclZ9AXZnJMdTOjR2TEIIg?e=KxvMvd).
+- Detail spesifikasi beberapa lomba dapat diakses [disini](https://itbdsti-my.sharepoint.com/:f:/g/personal/ulfa_office_itb_ac_id/EkHl5TeQCRpPteGr8L7RbXUB-GGli3iHB2mC9shgw1WhGg?e=5sNTOq). 
+
 ## Hadiah
 - Bimbingan untuk mengikuti Gemastik untuk 6 besar di setiap bidang
 - Total Hadiah: Rp. 48.000.000,00
@@ -46,7 +50,6 @@ Note : beberapa cabang lomba terdapat video penjelasan karya terkait. Video dapa
 ## Detail Setiap Bidang Lomba 
 
 ### 1. UX Design
-- Rekaman Technical meeting dan Slide Presentasi : [UX Design](https://itbdsti-my.sharepoint.com/personal/ulfa_office_itb_ac_id/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9pdGJkc3RpLW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL3VsZmFfb2ZmaWNlX2l0Yl9hY19pZC9Fb3JtZlp5N05EZEJsN2M5SkI4aHhTY0J6Y2xaOUFYWm5KTWRUT2pSMlRFSUlnP3J0aW1lPU1fVGx6NDR3MkVn&id=%2Fpersonal%2Fulfa%5Foffice%5Fitb%5Fac%5Fid%2FDocuments%2FAI%5FCenter%5FITB%2FKerma%20Non%20Riset%2F2020%2FGemastik%2Fbriefing%2Dgemastik%2D1%2FUX) 
 #### Deskripsi
 Lomba Desain Pengalaman Pengguna (UX Design) adalah lomba desain interaksi produk yang berorientasi pada kenyamanan dan kemudahan bagi pengguna. 
 Dalam lomba ini yang menjadi fokus utama adalah pengalaman yang dirasakan pengguna ketika sedang menggunakan aplikasi tersebut secara menyeluruh
