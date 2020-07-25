@@ -109,7 +109,8 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 - Business canvas model
 
 ### 7. Karya Tulis Ilmiah TIK
-
+- PPT Cara menulis karya tulis ilmiah dapat diunduh [disini](http://gemastik.hmif.tech/assets/Cara-Menulis-Makalah-Ilmiah.pptx).
+- PPT Technical Meeting dapat diunduh [disini](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
 #### Deskripsi
 Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya tulis mahasiswa dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penulisan ilmiah.
 
