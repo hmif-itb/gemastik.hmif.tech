@@ -119,6 +119,8 @@ Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Bisnis TIK](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Pengembangan%20Bisnis%20TIK.pdf)
 
 ### 8. Data Mining
+- File Technical meeting data mining : [klik disini](https://gemastik.hmif.tech/assets/Data%20Mining%20GEMASTIK%20ITB%20.pdf)
+- File Quick Tips & Trick oleh Christian W. : [klik disini](https://gemastik.hmif.tech/assets/Sharing%20Data%20Mining%20-%20Gemastik%20-%20CW.pdf)
 
 #### Deskripsi
 Penambangan Data yang semakin banyak menarik perhatian baik di kalangan industri maupun akademik dunia dewasa ini, terutama dengan penggunaan deep learning yang merupakan suatu algoritma mutakhir. 
