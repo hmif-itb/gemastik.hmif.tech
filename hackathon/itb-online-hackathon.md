@@ -127,7 +127,7 @@ Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya
 - Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. 
   - Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. 
   - Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
-  - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Bisnis TIK](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Pengembangan%20Bisnis%20TIK.pdf)
+  - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Karya Tulis TIK](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
 
 ### 8. Data Mining
 - File Technical meeting data mining : [klik disini](https://gemastik.hmif.tech/assets/Data%20Mining%20GEMASTIK%20ITB%20.pdf)
