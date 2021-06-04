@@ -14,9 +14,8 @@ Daya analisis dan kreativitas peserta ditantang untuk mencari kelemahan dalam su
 Skill set: Programming, Web Security, Cryptography, Reverse Engineering, Binary Exploitation, Digital Forensic
 
 ## Timeline
-- Pendaftaran: 20 Juli 2020 - 7 Agustus 2020
-- Pemanasan: 5 September 2020
-- Babak Penyisihan: 19 September 2020
-- Masa Penjurian Babak Penyisihan: 13 - 22 September 2020
-- Pengumuman Babak Penyisihan: 24 September 2020
-- Babak Final: 21 - 24 Oktober 2020
+- Pendaftaran: 15 Juni 2021 - 15 Juli 2021
+- Pemanasan: 31 Juli 2021
+- Babak Penyisihan: 7 Agustus 2021
+- Pengumuman Babak Penyisihan: 12 Agustus 2021
+- Babak Final: 4 - 7 Oktober 2021

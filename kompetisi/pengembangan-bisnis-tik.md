@@ -13,11 +13,11 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 Skill set: Problem Solving, Creativity, Analytical Skills, Communication, Presentation Skills
 
 ## Timeline
-- Pendaftaran: 20 Juli 2020 - 7 Agustus 2020
-- Batas Unggah Proposal: 12 September 2020
-- Masa Penjurian Babak Penyisihan: 13 - 22 September 2020
-- Pengumuman Babak Penyisihan: 24 September 2020
-- Babak Final: 21 - 24 Oktober 2020
+- Pendaftaran: 15 Juni 2021 - 15 Juli 2021
+- Batas Unggah Proposal: 29 Juli 2021
+- Masa Penjurian Babak Penyisihan: 31 Juli 2021 - 10 Agustus 2021
+- Pengumuman Babak Penyisihan: 12 Agustus 2021
+- Babak Final: 4 - 7 Oktober 2021
 
 ## Pembimbingan
 
