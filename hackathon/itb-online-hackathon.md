@@ -74,8 +74,8 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 - Proposal
 - Video (Max 7 menit)
 - Poster
-<!-- - Detail Deliverables dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
-- Untuk pertanyaan lebih lanjut, bisa contak Bu Ginar melalui email ginar@informatika.org -->
+- Detail Deliverables dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
+
 
 
 ### 2. Animation
