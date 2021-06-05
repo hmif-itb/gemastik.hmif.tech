@@ -1,39 +1,49 @@
 ---
 layout: page
-title: "ITB Online Hackathon: Pra-Gemastik 13"
+title: "ITB Online Hackathon: Pra-Gemastik 14"
 permalink: /hackathon
 ---
 
-# ITB Online Hackathon: Pra-Gemastik 13
-# !!! Pendaftaran Diperpanjang Sampai Pengumpulan Bidang Terkait !!!
+# ITB Online Hackathon: Pra-Gemastik 14
 
-## Timeline [Updated]
-- Batas Pengumpulan Bisnis TIK, Smart City, Karya Tulis Ilmaih TIK : **Sabtu, 1 Agustus 2020 pukul 18.00 WIB**
-- Batas Pengumpulan UX Design, Animasi, Smart Device / Embedded System / IoT , Data Mining, Game Developmet : **Senin, 3 Agustus 2020 pukul 12.00 WIB**
-- Presentasi : Minggu 2 Agustus 2020
-  - 9.00 WIB : Smart City & Karya Tulis TIK
-  - 16.00 WIB : Bisnis TIK
-- Pengumuman Pemenang: 5 Agustus 2020 pukul 12.00
+## Deskripsi
 
-## Rekaman TM dan Detail Lomba (Rangkuman)
+ITB Online Hackathon - Pra Gemastik 2021 adalah lomba internal ITB yang diselenggarakan sebagai persiapan dari keikutsertaan ITB pada lomba Gemastik 2021. Diharapkan dengan adanya Pra-GEMASTIK ini, mahasiswa ITB dapat belajar dan lebih siap dalam menghadapai GEMASTIK 14.
+
+## Timeline
+- Batas Pendaftaran: **Minggu, 20 Juni 2021 Pukul 23:59 WIB**
+- Pembukaan Pra-GEMASTIK 14: **Senin, 21 Juni 2021 Pukul 09:00 WIB** (Wajib dihadiri oleh setiap peserta)
+- Pelaksanaan Bidang Lomba Pemrograman: **Minggu, 27 Juni 2021 Pukul 09.00 WIB - 14.00 WIB**
+- Batas Pengumpulan Bisnis TIK, Smart City, Karya Tulis Ilmaih TIK : **Senin, 28 Juni 2021 pukul 18.00 WIB**
+  - Presentasi : **Selasa, 29 Juni 2021**
+    - 9.00 WIB : Smart City & Karya Tulis TIK
+    - 16.00 WIB : Bisnis TIK
+- Batas Pengumpulan UX Design, Animasi, Smart Device / Embedded System / IoT , Data Mining, Game Developmet : **Rabu, 30 Juni 2021 pukul 12.00 WIB**
+
+- Pengumuman Pemenang: **Jum'at, 2 Juli 2021**
+
+<!-- ## Rekaman TM dan Detail Lomba (Rangkuman)
 - Rekamam TM Beberapa Cabang lomba dapat diakses [disini](https://itbdsti-my.sharepoint.com/:f:/g/personal/ulfa_office_itb_ac_id/EormfZy7NDdBl7c9JB8hxScBzclZ9AXZnJMdTOjR2TEIIg?e=KxvMvd).
-- Detail spesifikasi beberapa lomba dapat diakses [disini](https://itbdsti-my.sharepoint.com/:f:/g/personal/ulfa_office_itb_ac_id/EkHl5TeQCRpPteGr8L7RbXUB-GGli3iHB2mC9shgw1WhGg?e=5sNTOq). 
+- Detail spesifikasi beberapa lomba dapat diakses [disini](https://itbdsti-my.sharepoint.com/:f:/g/personal/ulfa_office_itb_ac_id/EkHl5TeQCRpPteGr8L7RbXUB-GGli3iHB2mC9shgw1WhGg?e=5sNTOq).  -->
 
 ## Hadiah
-- Bimbingan untuk mengikuti Gemastik untuk 6 besar di setiap bidang
-- Total Hadiah: Rp. 48.000.000,00
+- Bimbingan dan pelatihan GEMASTIK 14
+- Total Hadiah: Rp. 54.000.000,00
 
 ## Pendaftaran
-Pendaftaran bisa diakses pada laman ini: [Pendaftaran ITB Online Hackathon Pra-GEMASTIK](https://bit.ly/ITB-PraGemastik2020)
+Pendaftaran bisa diakses pada laman ini: *Coming Soon*
+<!-- [Pendaftaran ITB Online Hackathon Pra-GEMASTIK](https://bit.ly/ITB-PraGemastik2020) -->
 
 ## Problem Statement
-Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2020 dengan deliverables yang lebih sederhana.
-
+Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2021 dengan deliverables yang lebih sederhana.
 
 Spesifikasi Gemastik: 
-- [Panduan Gemastik 13 Tahun 2020](https://cdn-gemastik13.telkomuniversity.ac.id/Petunjuk_Gemastik_13.pdf)
+- [Panduan Gemastik 14 Tahun 2021](https://pusatprestasinasional.kemdikbud.go.id/wp-content/uploads/2021/05/Pedoman-GEMASTIK-2021.pdf)
 
-## 8 Bidang Hackathon
+## Bidang Lomba
+
+Lomba yang akan dilaksanakan merupakan 9 bidang lomba sebagai berikut:
+
 1. UX Design
 2. Animation
 3. Smart City
@@ -42,10 +52,15 @@ Spesifikasi Gemastik:
 6. ICT Business Development
 7. Karya Tulis Ilmiah TIK
 8. Data Mining
+9. Pemrograman
 
 ## Referensi Judul Karya
-Judul karya para pemenang GEMASTIK 12 (2019) dapat dilihat di [sini.](https://gemastik12.telkomuniversity.ac.id/dashboard/landing/peringkat-kompetisi) <br/>
-Note : beberapa cabang lomba terdapat video penjelasan karya terkait. Video dapat dicari dengan kata kunci "Gemastik 12 <Judul Karya>" pada laman pencarian Youtube.
+Judul karya para pemenang:
+
+- GEMASTIK 12 (2019) dapat dilihat di [sini](https://gemastik12.telkomuniversity.ac.id/dashboard/landing/peringkat-kompetisi).
+- GEMASTIK 13 (2020) dapat dilihat di [sini](https://gemastik13.telkomuniversity.ac.id/dashboard/landing/peringkat-kompetisi).
+
+Note : beberapa cabang lomba terdapat video penjelasan karya terkait. Video dapat dicari dengan kata kunci "Gemastik 12/13 <Judul Karya>" pada laman pencarian Youtube.
 
 ## Detail Setiap Bidang Lomba 
 
@@ -59,8 +74,8 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 - Proposal
 - Video (Max 7 menit)
 - Poster
-- Detail Deliverables dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
-- Untuk pertanyaan lebih lanjut, bisa contak Bu Ginar melalui email ginar@informatika.org
+<!-- - Detail Deliverables dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
+- Untuk pertanyaan lebih lanjut, bisa contak Bu Ginar melalui email ginar@informatika.org -->
 
 
 ### 2. Animation
@@ -95,7 +110,7 @@ Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dap
 #### Deliverable ITB Online Hackathon 
 - Dokumen ide dan desain (jika ada prototype, akan lebik baik)
 - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas2.pdf) (updated 25 Juli)
-- Jika ada  pertanyaan lebih lanjut silahka bisa ditanyakan di email : kusprasapta.mutijarsa@gmail.com
+<!-- - Jika ada  pertanyaan lebih lanjut silahka bisa ditanyakan di email : kusprasapta.mutijarsa@gmail.com -->
 
 ### 5. Game Development
 
@@ -151,6 +166,12 @@ Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Da
   - deskripsi data,
   - rencana eksperimen termasuk usulan topologi
 
+### 9. Pemrograman
+
+#### Deskripsi
+
+Lomba pemrograman menguji kemampuan dan nalar peserta dalam menyelesaikan program komputer untuk memecahkan permasalahan yang diberikan. Kriteria penilaian mencakup kecepatan penulisan program dan ketepatan/efisiensi dari program yang dibuat untuk setiap kasus permasalahan terkait. Lomba ini akan dilaksanakan menggunakan **Online Judge** seperti **DomJudge**.
+
 ## Contact Person
-- Zunan: WA 08112334569 / Line mzunana / Email 13518019@std.stei.itb.ac.id
-- Irfan: WA 08111237878 / Line irfan_sofyana / Email 13517078@std.stei.itb.ac.id
+- Hasan: WA 085956064292 / Line m.hasan01 / Email 13518012@std.stei.itb.ac.id
+- Steve: WA 085861547510 / Line sbig21 / Email 13518018@std.stei.itb.ac.id
