@@ -84,7 +84,7 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D yang mengandung unsur kreativitas dan inovasi pemuda untuk menciptakan masyarakat yang berdikari, sehat serta mandiri berbasis TIK untuk kedaulatan bangsa, sebagai elemen penting dalam karya cipta tersebut. Karya berbentuk film pendek dari bentuk digital animation.
 
 #### Deliverable ITB Online Hackathon
-- Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2020
+- Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2021
 - Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
 - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Animasi](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Animasi.pdf)
 
@@ -96,7 +96,7 @@ Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berba
 
 
 #### Deliverable ITB Online Hackathon
-- Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2020 
+- Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2021 
 - Dokumen yang dikumpulkan adalah proposal dan PPT yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
 - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Smart City](https://gemastik.hmif.tech/assets/Panduan%20Pra%20Gemastik%20Smart%20City%20untuk%20Peserta.docx.pdf)
 
@@ -158,11 +158,11 @@ Para peserta lomba diharapkan mampu melakukan proses Penambangan Data terhadap b
 Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Data tersebut sehingga berguna bagi masyarakat luas.
 
 #### Deliverable ITB Online Hackathon
-- Mencari data yang relevan terhadap spesifikasi Gemastik 2020 (lomba level nasional)
+- Mencari data yang relevan terhadap spesifikasi Gemastik 2021 (lomba level nasional)
 - Melakukan studi literatur untuk data dan teknik deep learning terkait
 - Mengusulkan topologi & eksperimen
 - Dokumen yang dikumpulkan harus berisi:
-  - latar belakang pemilihan data dikaitkan dengan spesifikasi Gemastik 2020,
+  - latar belakang pemilihan data dikaitkan dengan spesifikasi Gemastik 2021,
   - deskripsi data,
   - rencana eksperimen termasuk usulan topologi
 
