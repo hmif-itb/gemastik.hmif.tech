@@ -7,6 +7,10 @@ body, .markdown-body {
     font-family: 'Montserrat', sans-serif !important;
 }
 
-.hmif-heading, .footer {
+.hmif-heading {
     border-top: solid 6px #FFC107;
+}
+
+.border-top {
+    border-bottom: solid 6px #FFC107;
 }
