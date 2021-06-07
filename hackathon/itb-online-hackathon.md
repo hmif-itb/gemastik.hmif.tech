@@ -32,7 +32,7 @@ ITB Online Hackathon - Pra Gemastik 2021 adalah lomba internal ITB yang diseleng
 
 ### Pembimbingan GEMASTIK 14
 
-Bagi tim ITB yang mendaftar pada GEMASTIK 14 akan disediakan Microsoft Teams untuk melakukan komunikasi antara peserta dengan pembina saat pembinaan berlangsung, jika Anda ingin memberikan saran atau pendapat untuk pembinaan nanti tolong hubungi [Contact Person](#Contact-Person)
+Bagi tim ITB yang mendaftar pada GEMASTIK 14 akan disediakan Microsoft Teams untuk melakukan komunikasi antara peserta dengan pembina saat pembinaan berlangsung, jika Anda ingin memberikan saran atau pendapat untuk pembinaan nanti tolong hubungi [Contact Person](#contact-person)
 
 ## Pendaftaran
 
