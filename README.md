@@ -16,17 +16,17 @@ Situs resmi GEMASTIK 14: *Coming Soon*
 Untuk melihat panduan lengkap GEMASTIK 14, Anda dapat melihat informasi resmi dari puspernas di link [ini](https://pusatprestasinasional.kemdikbud.go.id/wp-content/uploads/2021/05/Pedoman-GEMASTIK-2021.pdf).
 
 ### Timeline GEMASTIK 14
-- Tahap 1: pendaftaran perguruan tinggi: 1 Juni 2021 - 15 Juli 2021
-- Tahap 2: pendaftaran tim untuk semua lomba: 15 Juni 2021 - 15 Juli 2021
-- Pemanasan Keamanan Siber: 31 Juli 2021, 09.00 - 22.00 WIB
-- Pemanasan Pemrograman:  01 Agustus 2021, 10.00 - 15.00 WIB
-- Penyisihan Keamanan Siber: 07 Agustus 2021, 18.00 - 23.00 WIB
-- Penyisihan Pemrograman: 08 Agustus 2021, 09.00 - 12.00 WIB
-- Batas unggah proposal lomba bidang lain: 29 Juli 2021
-- Masa penjurian penyisihan: 31 Juli 2021 - 10 Agustus 2021
-- Pengumuman babak penyisihan: 12 Agustus 2021
-- Pendaftaran ulang peserta final: : 24 – 30 September 2021
-- Babak final & puncak acara: : 04 – 07 Oktober 2021 secara **daring**
+- Tahap 1: pendaftaran perguruan tinggi: **1 Juni 2021 - 15 Juli 2021**
+- Tahap 2: pendaftaran tim untuk semua lomba: **15 Juni 2021 - 15 Juli 2021**
+- Pemanasan Keamanan Siber: **31 Juli 2021, 09.00 - 22.00 WIB**
+- Pemanasan Pemrograman:  **01 Agustus 2021, 10.00 - 15.00 WIB**
+- Penyisihan Keamanan Siber: **07 Agustus 2021, 18.00 - 23.00 WIB**
+- Penyisihan Pemrograman: **08 Agustus 2021, 09.00 - 12.00 WIB**
+- Batas unggah proposal lomba bidang lain: **29 Juli 2021**
+- Masa penjurian penyisihan: **31 Juli 2021 - 10 Agustus 2021**
+- Pengumuman babak penyisihan: **12 Agustus 2021**
+- Pendaftaran ulang peserta final: : **24 – 30 September 2021**
+- Babak final & puncak acara: : **04 – 07 Oktober 2021** secara **daring**
 
 ### Mata Lomba
 - [Pemrograman](pemrograman)
