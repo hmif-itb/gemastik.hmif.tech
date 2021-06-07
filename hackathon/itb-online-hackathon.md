@@ -179,6 +179,10 @@ Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Da
 
 Lomba pemrograman menguji kemampuan dan nalar peserta dalam menyelesaikan program komputer untuk memecahkan permasalahan yang diberikan. Kriteria penilaian mencakup kecepatan penulisan program dan ketepatan/efisiensi dari program yang dibuat untuk setiap kasus permasalahan terkait. Lomba ini akan dilaksanakan menggunakan **Online Judge** seperti **DomJudge**.
 
+#### Referensi Soal Tahun Lalu
+
+Untuk melihat referensi soal tahun lalu, Anda dapat melihatnya pada link [ini](https://cp-itb.github.io/contests/#GEMASTIK2020-qualifications-overview).
+
 #### Link Platform Pemrograman
 
 Setiap tim yang terdaftar akan diberikan akun untuk mengerjakan soal pemrograman pada platform yang dapat diakses [disini](http://34.101.131.182:12345/public).
