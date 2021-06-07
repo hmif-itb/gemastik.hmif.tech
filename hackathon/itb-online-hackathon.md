@@ -51,15 +51,15 @@ Spesifikasi Gemastik:
 
 Lomba yang akan dilaksanakan merupakan 9 bidang lomba sebagai berikut:
 
-1. UX Design
-2. Animation
-3. Smart City
-4. Smart Device, Embedded System & IoT
-5. Game Development
-6. ICT Business Development
-7. Karya Tulis Ilmiah TIK
-8. Data Mining
-9. Pemrograman
+1. [UX Design](#1-ux-design)
+2. [Animation](#2-animation)
+3. [Smart City](#3-smart-city)
+4. [Smart Device, Embedded System & IoT](#4-smart-device-embedded-system--iot)
+5. [Game Development](#5-game-development)
+6. [ICT Business Development](#6-ict-business-development)
+7. [Karya Tulis Ilmiah TIK](#7-karya-tulis-ilmiah-tik)
+8. [Data Mining](#8-data-mining)
+9. [Pemrograman](#9-pemrograman)
 
 ## Referensi Judul Karya
 Judul karya para pemenang:
