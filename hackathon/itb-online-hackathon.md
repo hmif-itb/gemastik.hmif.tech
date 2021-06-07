@@ -28,11 +28,18 @@ ITB Online Hackathon - Pra Gemastik 2021 adalah lomba internal ITB yang diseleng
 
 ## Hadiah
 - Bimbingan dan pelatihan GEMASTIK 14
-- Total Hadiah: Rp. 54.000.000,00
+- Total Hadiah: **Rp. 54.000.000,00**
+
+### Pembimbingan GEMASTIK 14
+
+Bagi tim ITB yang mendaftar pada GEMASTIK 14 akan disediakan Microsoft Teams untuk melakukan komunikasi antara peserta dengan pembina saat pembinaan berlangsung, jika Anda ingin memberikan saran atau pendapat untuk pembinaan nanti tolong hubungi [Contact Person](#Contact-Person)
 
 ## Pendaftaran
-Pendaftaran bisa diakses pada laman ini: *Coming Soon*
-<!-- [Pendaftaran ITB Online Hackathon Pra-GEMASTIK](https://bit.ly/ITB-PraGemastik2020) -->
+
+Pendaftaran bisa diakses pada link ini: [bit.ly/daftarPraGemastik2021](http://bit.ly/daftarPraGemastik2021)
+
+Mengingatkan bahwa batas pendaftaran adalah **Minggu, 20 Juni 2021 Pukul 23:59 WIB**.
+
 
 ## Problem Statement
 Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2021 dengan deliverables yang lebih sederhana.
@@ -171,6 +178,10 @@ Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Da
 #### Deskripsi
 
 Lomba pemrograman menguji kemampuan dan nalar peserta dalam menyelesaikan program komputer untuk memecahkan permasalahan yang diberikan. Kriteria penilaian mencakup kecepatan penulisan program dan ketepatan/efisiensi dari program yang dibuat untuk setiap kasus permasalahan terkait. Lomba ini akan dilaksanakan menggunakan **Online Judge** seperti **DomJudge**.
+
+#### Link Platform Pemrograman
+
+Setiap tim yang terdaftar akan diberikan akun untuk mengerjakan soal pemrograman pada platform yang dapat diakses [disini](http://34.101.131.182:12345/public).
 
 ## Contact Person
 - Hasan: WA 085956064292 / Line m.hasan01 / Email 13518012@std.stei.itb.ac.id
