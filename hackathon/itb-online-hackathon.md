@@ -62,6 +62,9 @@ Lomba yang akan dilaksanakan merupakan 9 bidang lomba sebagai berikut:
 9. [Pemrograman](#9-pemrograman)
 
 ## Referensi Judul Karya
+
+Untuk melihat referensi karya finalis tahun lalu, Anda dapat lihat pada link [ini](https://drive.google.com/drive/u/1/folders/1iK6hFXL1fJoaBLbht0I9AZsks2dYF2T-). (Jika belum bisa akses maka coba *request access* dulu)
+
 Judul karya para pemenang:
 
 - GEMASTIK 12 (2019) dapat dilihat di [sini](https://gemastik12.telkomuniversity.ac.id/dashboard/landing/peringkat-kompetisi).
