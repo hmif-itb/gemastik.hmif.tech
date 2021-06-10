@@ -12,19 +12,15 @@ ITB Online Hackathon - Pra Gemastik 2021 adalah lomba internal ITB yang diseleng
 
 ## Timeline
 - Batas Pendaftaran: **Minggu, 20 Juni 2021 Pukul 23:59 WIB**
-- Pembukaan Pra-GEMASTIK 14: **Senin, 21 Juni 2021 Pukul 09:00 WIB** (Wajib dihadiri oleh setiap peserta)
+- Mulai Pelaksanaan Pra-GEMASTIK 14: **Senin, 21 Juni 2021**
+  - Informasi pelaksanaan akan diberikan melalui **e-mail** ataupun **Group LINE** yang nanti akan dibuat.
 - Pelaksanaan Bidang Lomba Pemrograman: **Minggu, 27 Juni 2021 Pukul 09.00 WIB - 14.00 WIB**
 - Batas Pengumpulan Bisnis TIK, Smart City, Karya Tulis Ilmaih TIK : **Senin, 28 Juni 2021 pukul 18.00 WIB**
   - Presentasi : **Selasa, 29 Juni 2021**
     - 9.00 WIB : Smart City & Karya Tulis TIK
     - 16.00 WIB : Bisnis TIK
 - Batas Pengumpulan UX Design, Animasi, Smart Device / Embedded System / IoT , Data Mining, Game Developmet : **Rabu, 30 Juni 2021 pukul 12.00 WIB**
-
 - Pengumuman Pemenang: **Jum'at, 2 Juli 2021**
-
-<!-- ## Rekaman TM dan Detail Lomba (Rangkuman)
-- Rekamam TM Beberapa Cabang lomba dapat diakses [disini](https://itbdsti-my.sharepoint.com/:f:/g/personal/ulfa_office_itb_ac_id/EormfZy7NDdBl7c9JB8hxScBzclZ9AXZnJMdTOjR2TEIIg?e=KxvMvd).
-- Detail spesifikasi beberapa lomba dapat diakses [disini](https://itbdsti-my.sharepoint.com/:f:/g/personal/ulfa_office_itb_ac_id/EkHl5TeQCRpPteGr8L7RbXUB-GGli3iHB2mC9shgw1WhGg?e=5sNTOq).  -->
 
 ## Hadiah
 - Bimbingan dan pelatihan GEMASTIK 14
@@ -84,7 +80,8 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 - Proposal
 - Video (Max 7 menit)
 - Poster
-- Detail Deliverables dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
+- Referensi tahun lalu:
+  - Detail Deliverables tahun lalu dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
 
 
 
@@ -96,7 +93,8 @@ Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D
 #### Deliverable ITB Online Hackathon
 - Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2021
 - Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
-- Detail dapat dilihat di : [Detail Deliverable Online Hackathon Animasi](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Animasi.pdf)
+- Referensi tahun lalu:
+  - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Animasi 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Animasi.pdf)
 
 ### 3. Smart City
 
@@ -108,7 +106,8 @@ Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berba
 #### Deliverable ITB Online Hackathon
 - Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2021 
 - Dokumen yang dikumpulkan adalah proposal dan PPT yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
-- Detail dapat dilihat di : [Detail Deliverable Online Hackathon Smart City](https://gemastik.hmif.tech/assets/Panduan%20Pra%20Gemastik%20Smart%20City%20untuk%20Peserta.docx.pdf)
+- Referensi tahun lalu:
+  - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Smart City 2020](https://gemastik.hmif.tech/assets/Panduan%20Pra%20Gemastik%20Smart%20City%20untuk%20Peserta.docx.pdf)
 
 ### 4. Smart Device, Embedded System & IoT
 
@@ -119,7 +118,8 @@ Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dap
 
 #### Deliverable ITB Online Hackathon 
 - Dokumen ide dan desain (jika ada prototype, akan lebik baik)
-- Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas2.pdf) (updated 25 Juli)
+- Referensi tahun lalu:
+  - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas2.pdf)
 <!-- - Jika ada  pertanyaan lebih lanjut silahka bisa ditanyakan di email : kusprasapta.mutijarsa@gmail.com -->
 
 ### 5. Game Development
@@ -143,8 +143,7 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 - Business canvas model
 
 ### 7. Karya Tulis Ilmiah TIK
-- PPT Cara menulis karya tulis ilmiah dapat diunduh [disini](http://gemastik.hmif.tech/assets/Cara-Menulis-Makalah-Ilmiah.pptx).
-- PPT Technical Meeting dapat diunduh [disini](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
+
 #### Deskripsi
 Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya tulis mahasiswa dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penulisan ilmiah.
 
@@ -152,11 +151,12 @@ Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya
 - Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. 
   - Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. 
   - Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
-  - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Karya Tulis TIK](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
+  - Referensi tahun lalu:
+    - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Karya Tulis TIK 2020](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
+    - PPT Cara menulis karya tulis ilmiah dapat diunduh [disini](http://gemastik.hmif.tech/assets/Cara-Menulis-Makalah-Ilmiah.pptx).
+    - PPT Technical Meeting dapat diunduh [disini](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
 
 ### 8. Data Mining
-- File Technical meeting data mining : [klik disini](https://gemastik.hmif.tech/assets/Data%20Mining%20GEMASTIK%20ITB%20.pdf)
-- File Quick Tips & Trick oleh Christian W. : [klik disini](https://gemastik.hmif.tech/assets/Sharing%20Data%20Mining%20-%20Gemastik%20-%20CW.pdf)
 
 #### Deskripsi
 Penambangan Data yang semakin banyak menarik perhatian baik di kalangan industri maupun akademik dunia dewasa ini, terutama dengan penggunaan deep learning yang merupakan suatu algoritma mutakhir. 
@@ -175,12 +175,19 @@ Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Da
   - latar belakang pemilihan data dikaitkan dengan spesifikasi Gemastik 2021,
   - deskripsi data,
   - rencana eksperimen termasuk usulan topologi
+- Referensi tahun lalu:
+  - File Technical meeting data mining 2020 : [klik disini](https://gemastik.hmif.tech/assets/Data%20Mining%20GEMASTIK%20ITB%20.pdf)
+  - File Quick Tips & Trick oleh Christian W. : [klik disini](https://gemastik.hmif.tech/assets/Sharing%20Data%20Mining%20-%20Gemastik%20-%20CW.pdf)
 
 ### 9. Pemrograman
 
 #### Deskripsi
 
 Lomba pemrograman menguji kemampuan dan nalar peserta dalam menyelesaikan program komputer untuk memecahkan permasalahan yang diberikan. Kriteria penilaian mencakup kecepatan penulisan program dan ketepatan/efisiensi dari program yang dibuat untuk setiap kasus permasalahan terkait. Lomba ini akan dilaksanakan menggunakan **Online Judge** seperti **DomJudge**.
+
+#### Bahasa Pemrograman
+
+Bahasa pemrograman yang tersedia mengikuti GEMASTIK 2021, yakni **Java, C++, dan C**.
 
 #### Referensi Soal Tahun Lalu
 
