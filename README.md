@@ -9,7 +9,7 @@ Situs ini berisi informasi tentang ajang GEMASTIK 14 khusus untuk mahasiswa Inst
 **GEMASTIK** atau Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi, merupakan program Kementerian Pendidikan dan Kebudayaan. Program ini ditujukan untuk meningkatkan kompetensi mahasiswa Indonesia, sehingga mampu mengambil peran sebagai agen perubahan dalam memajukan TIK dan pemanfaatannya, baik ketika masih dalam masa studi maupun kelak sesudah lulus studi.
 
 
-Situs resmi GEMASTIK 14: *Coming Soon*
+Situs resmi GEMASTIK 14: [gemastik.kemdikbud.go.id](http://gemastik.kemdikbud.go.id/)
 
 ### Panduan Lengkap GEMASTIK 14
 
