@@ -12,14 +12,10 @@ ITB Online Hackathon - Pra Gemastik 2021 adalah lomba internal ITB yang diseleng
 
 ## Timeline
 - Batas Pendaftaran: **Minggu, 20 Juni 2021 Pukul 23:59 WIB**
-- Mulai Pelaksanaan Pra-GEMASTIK 14: **Senin, 21 Juni 2021**
+- Mulai Pelaksanaan Pra-GEMASTIK 14: **Rabu, 23 Juni 2021**
   - Informasi pelaksanaan akan diberikan melalui **e-mail** ataupun **Group LINE** yang nanti akan dibuat.
 - Pelaksanaan Bidang Lomba Pemrograman: **Minggu, 27 Juni 2021 Pukul 09.30 WIB - 14.30 WIB**
-- Batas Pengumpulan Bisnis TIK, Smart City, Karya Tulis Ilmaih TIK : **Senin, 28 Juni 2021 pukul 18.00 WIB**
-  - Presentasi : **Selasa, 29 Juni 2021**
-    - 9.00 WIB : Smart City & Karya Tulis TIK
-    - 16.00 WIB : Bisnis TIK
-- Batas Pengumpulan UX Design, Animasi, Smart Device / Embedded System / IoT , Data Mining, Game Developmet : **Rabu, 30 Juni 2021 pukul 12.00 WIB**
+- Batas Pengumpulan Selain Bidang Pemrograman : **Rabu, 30 Juni 2021 pukul 12.00 WIB**
 - Pengumuman Pemenang: **Jum'at, 2 Juli 2021**
 
 ## Hadiah
