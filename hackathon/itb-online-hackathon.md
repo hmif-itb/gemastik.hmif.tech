@@ -13,7 +13,7 @@ ITB Online Hackathon - Pra Gemastik 2021 adalah lomba internal ITB yang diseleng
 ## Timeline
 - Batas Pendaftaran: **Minggu, 20 Juni 2021 Pukul 23:59 WIB**
 - Mulai Pelaksanaan Pra-GEMASTIK 14: **Rabu, 23 Juni 2021**
-  - Informasi pelaksanaan akan diberikan melalui **e-mail** ataupun **Group LINE** yang nanti akan dibuat.
+  - Informasi pelaksanaan akan diberikan melalui **e-mail** ataupun **MS Teams** yang nanti akan dibuat.
 - Pelaksanaan Bidang Lomba Pemrograman: **Minggu, 27 Juni 2021 Pukul 09.30 WIB - 14.30 WIB**
 - Batas Pengumpulan Selain Bidang Pemrograman : **Rabu, 30 Juni 2021 pukul 12.00 WIB**
 - Pengumuman Pemenang: **Jum'at, 2 Juli 2021**
@@ -52,6 +52,7 @@ Lomba yang akan dilaksanakan merupakan 9 bidang lomba sebagai berikut:
 7. [Karya Tulis Ilmiah TIK](#7-karya-tulis-ilmiah-tik)
 8. [Data Mining](#8-data-mining)
 9. [Pemrograman](#9-pemrograman)
+10. [Pengembangan Perangkat Lunak](#10-pengembangan-perangkat-lunak)
 
 ## Referensi Judul Karya
 
@@ -194,6 +195,18 @@ Untuk melihat referensi soal tahun lalu, Anda dapat melihatnya pada link [ini](h
 #### Link Platform Pemrograman
 
 Setiap tim yang terdaftar akan diberikan akun untuk mengerjakan soal pemrograman pada platform yang dapat diakses [disini](http://34.101.131.182:12345/public).
+
+### 10. Pengembangan Perangkat Lunak
+
+#### Deskripsi
+Lomba pengembangan perangkat lunak menguji kemampuan peserta dalam mengembangkan ide kreatif untuk memberikan solusi penyelesaian masalah di Indonesia dalam bentuk perangkat lunak berkualitas tinggi. Fokus pada kategori ini adalah aspek inovasi yang kreatif dan pemanfaatan TIK untuk mencerdaskan masyarakat Indonesia sehingga perangkat yang dihasilkan mampu memberikan dampak untuk kemandirian dan kecerdasan masyarakat umum. Dampak ini harus dibuktikan bukan hanya dalam bentuk argumentasi namun juga harus didukung dengan data. 
+
+Produk perangkat lunak yang dihasilkan harus bisa dioperasikan sehingga dampak tersebut dapat terukur. Platform produk perangkat lunak tidak dibatasi.
+
+Skill set: Programming, Problem Solving, Software Development Life Cycle, Database, Ability using framework
+
+#### Deliverable ITB Online Hackathon
+Akan diberitahukan nanti
 
 ## Contact Person
 - Hasan: WA 085956064292 / Line m.hasan01 / Email 13518012@std.stei.itb.ac.id
