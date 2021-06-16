@@ -42,7 +42,7 @@ Untuk melihat panduan lengkap GEMASTIK 14, Anda dapat melihat informasi resmi da
 - [Pengembangan Bisnis TIK](pengembangan-bisnis-tik)
 
 ### Pembimbingan Lomba dan ITB Online Hackathon
-Untuk meningkatkan prestasi ITB pada lomba GEMASTIK, maka DITMAWA dan HMIF ITB akan mengadakan bimbingan untuk semua bidang lomba. Terkhusus 9 bidang lomba, Anda diwajibkan untuk mengikuti ITB Online Hackathon Pra-Gemastik (hackathon 7 hari untuk lomba karya) dan 5 jam lomba pemrograman, yang detailnya dapat dilihat pada laman ini: [ITB Online Hackathon](hackathon).
+Untuk meningkatkan prestasi ITB pada lomba GEMASTIK, maka DITMAWA dan HMIF ITB akan mengadakan bimbingan untuk semua bidang lomba. Terkhusus 10 bidang lomba, Anda diwajibkan untuk mengikuti ITB Online Hackathon Pra-Gemastik (hackathon 7 hari untuk lomba karya) dan 5 jam lomba pemrograman, yang detailnya dapat dilihat pada laman ini: [ITB Online Hackathon](hackathon).
 
 ### Kontak
 Apabila kamu memiliki pertanyaan, atau ingin mencari anggota tim dari HMIF, kamu bisa menghubungi:
