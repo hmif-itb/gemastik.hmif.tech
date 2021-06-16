@@ -19,3 +19,7 @@ Skill set: Programming (C, C++, Java), Algoritma dan Struktur Data, Problem Solv
 - Babak Penyisihan: 8 Agustus 2021
 - Pengumuman Babak Penyisihan: 12 Agustus 2021
 - Babak Final: 4 - 7 Oktober 2021
+
+## Pembimbingan
+
+Untuk cabang lomba ini, ITB mengadakan pembimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](hackathon).
