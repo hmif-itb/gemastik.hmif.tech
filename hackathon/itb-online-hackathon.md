@@ -77,6 +77,7 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 - Proposal
 - Video (Max 7 menit)
 - Poster
+- Detail Deliverables Pra-GEMASTIK XIV Tahun 2021: [Deliverables UX Design 2021](https://docs.google.com/document/d/1w2wptGg6AoK9braVWV22WmmSIIh07bEziE1TBh1Wk3k/edit?usp=sharing)
 - Referensi tahun lalu:
   - Detail Deliverables tahun lalu dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
 
@@ -90,6 +91,7 @@ Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D
 #### Deliverable ITB Online Hackathon
 - Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2021
 - Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
+- Detail Deliverables Pra-GEMASTIK XIV Tahun 2021: [Deliverables Animation 2021](https://docs.google.com/document/d/13cPyqbfmmcj55eVV959qKqOcio_TdNnsuYw30QCbdu4/edit?usp=sharing)
 - Referensi tahun lalu:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Animasi 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Animasi.pdf)
 
