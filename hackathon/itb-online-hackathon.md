@@ -75,7 +75,7 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 
 #### Deliverable ITB Online Hackathon
 - Proposal
-- Video (Max 7 menit)
+- Video (Max 2 menit)
 - Poster
 - Detail Deliverables Pra-GEMASTIK XIV Tahun 2021: [Deliverables UX Design 2021](https://docs.google.com/document/d/1w2wptGg6AoK9braVWV22WmmSIIh07bEziE1TBh1Wk3k/edit?usp=sharing)
 - Referensi tahun lalu:
