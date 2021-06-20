@@ -133,6 +133,7 @@ Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan beri
 - Yang dikumpulkan: game design document
 - Kriteria: keseruan game, art dan teknis yang bagus
 (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
+- Detail Deliverables Pra-GEMASTIK XIV Tahun 2021: [Deliverables Game Development 2021](https://docs.google.com/document/d/1rfnpie67aVZKQZJWCXpIvM9hmhW9vUfuSOtSrYuK2gY/edit?usp=sharing)
 
 ### 6. ICT Business Development
 
