@@ -118,7 +118,7 @@ Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dap
 #### Deliverable ITB Online Hackathon 
 - Dokumen ide dan desain (jika ada prototype, akan lebik baik)
 - Video yang menceritakan tahapan pengembangan ide dan perancangan karya inovasi, menjelaskan manfaat dari karya yang diusulkan, serta penjelasan cara menggunakannya. Durasi video maksimal 3 menit, diunggah ke YouTube. Tautan video tersebut dicantumkan pada dokumen.
-- Detail Deliverables Pra-GEMASTIK XIV Tahun 2021: [Deliverables UX Design 2021](https://docs.google.com/document/d/1FhqWFv8nlRxSdy7iPtRdn0Q9841FWQU6lCjJRs7vAx0/edit?usp=sharing)
+- Detail Deliverables Pra-GEMASTIK XIV Tahun 2021: [Deliverables Piranti Cerdas 2021](https://docs.google.com/document/d/1FhqWFv8nlRxSdy7iPtRdn0Q9841FWQU6lCjJRs7vAx0/edit?usp=sharing)
 - Referensi tahun lalu:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas2.pdf)
 <!-- - Jika ada  pertanyaan lebih lanjut silahka bisa ditanyakan di email : kusprasapta.mutijarsa@gmail.com -->
