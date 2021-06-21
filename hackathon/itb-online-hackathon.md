@@ -199,7 +199,7 @@ Untuk melihat referensi soal tahun lalu, Anda dapat melihatnya pada link [ini](h
 
 #### Link Platform Pemrograman
 
-Setiap tim yang terdaftar akan diberikan akun untuk mengerjakan soal pemrograman pada platform yang dapat diakses [disini](http://34.101.131.182:12345/public).
+Setiap tim yang terdaftar akan diberikan akun untuk mengerjakan soal pemrograman pada platform yang dapat diakses [cp.hmif.tech](https://cp.hmif.tech/)
 
 ### 10. Pengembangan Perangkat Lunak
 
