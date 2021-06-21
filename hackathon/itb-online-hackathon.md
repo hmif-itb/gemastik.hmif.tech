@@ -143,6 +143,7 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 #### Deliverable ITB Online Hackathon 
 - Ringkasan eksekutif dari ide bisnis/start up/usaha yang berorientasi produk TIK, baik jasa maupun produk
 - Business canvas model
+- Detail Deliverables : [Deliverable Online Hackathon Pra Gemastik 2021](https://docs.google.com/document/d/1SWfNQxdKHL18gRfCJ9VsaDvGBMEaDyHjoZXt1Agrsxs/edit?usp=sharing)
 - Referensi Tahun Lalu
   - Deliverables Pra GEMASTIK 2020: [Detail Deliverable Online ICT Business Development 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Pengembangan%20Bisnis%20TIK.pdf)
 
