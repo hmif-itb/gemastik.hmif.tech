@@ -104,7 +104,8 @@ Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berba
 
 #### Deliverable ITB Online Hackathon
 - Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2021 
-- Dokumen yang dikumpulkan adalah proposal dan PPT yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
+- Detail Pra-GEMASTIK XIV Tahun 2021: [Detail Deliverable Online Hackathon Smart City 2021](https://docs.google.com/document/d/1kmNtAeYZ93R2lhTAuFuApJtK0P7QPgiBfjinOXvuY_g/edit?usp=sharing).
+- Dokumen yang dikumpulkan adalah proposal dan video yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
 - Referensi tahun lalu:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Smart City 2020](https://gemastik.hmif.tech/assets/Panduan%20Pra%20Gemastik%20Smart%20City%20untuk%20Peserta.docx.pdf)
 
@@ -174,6 +175,7 @@ Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Da
 
 #### Deliverable ITB Online Hackathon
 - Mencari data yang relevan terhadap spesifikasi Gemastik 2021 (lomba level nasional)
+- Detail Pra-GEMASTIK XIV Tahun 2021: [Detail Deliverable Online Hackathon Data Mining 2021](https://docs.google.com/document/d/183otRj31-XE-yaGkWI0C1pQIsfnyVaTcc3PHixlwdTg/edit?usp=sharing).
 - Melakukan studi literatur untuk data dan teknik deep learning terkait
 - Mengusulkan topologi & eksperimen
 - Dokumen yang dikumpulkan harus berisi:
