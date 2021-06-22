@@ -30,7 +30,7 @@ Bagi tim ITB yang mendaftar pada GEMASTIK 14 akan disediakan Microsoft Teams unt
 
 Pendaftaran bisa diakses pada link ini: [bit.ly/daftarPraGemastik2021](http://bit.ly/daftarPraGemastik2021)
 
-Mengingatkan bahwa batas pendaftaran adalah **Minggu, 20 Juni 2021 Pukul 23:59 WIB**.
+Mengingatkan bahwa batas pendaftaran adalah **Rabu, 23 Juni 2021 Pukul 23:59 WIB**.
 
 
 ## Problem Statement
