@@ -160,6 +160,7 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya tulis mahasiswa dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penulisan ilmiah.
 
 #### Deliverable ITB Online Hackathon
+- Detail deliverables dapat dilihat [disini](https://drive.google.com/file/d/16bT986oaLu0s1eMfC-NYyNCQep0fx5kM/view?usp=sharing)
 - Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI. 
   - Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung. 
   - Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
@@ -220,7 +221,7 @@ Produk perangkat lunak yang dihasilkan harus bisa dioperasikan sehingga dampak t
 Skill set: Programming, Problem Solving, Software Development Life Cycle, Database, Ability using framework
 
 #### Deliverable ITB Online Hackathon
-Akan diberitahukan nanti
+Deliverables dapat di akses pada link berikut [Panduan Pra Gemastik PPL](https://docs.google.com/document/d/1THkp_F7nuTk3Ij3hpVMvpBR1GFLXIw4schs4piqJS9o/edit?usp=sharing)
 
 ## Contact Person
 - Hasan: WA 085956064292 / Line m.hasan01 / Email 13518012@std.stei.itb.ac.id
