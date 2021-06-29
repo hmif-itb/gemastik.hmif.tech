@@ -148,8 +148,6 @@ Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan beri
 Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK. Lomba ini memberikan kesempatan kepada peserta yang memiliki ide bisnis, start up dan pengembangan usaha yang berorientasi pada produk TIK, baik berupa jasa dan produk. Lomba ini akan menyeleksi ide pengembangan bisnis dalam bentuk ringkasan eksekutif pada penyisihan tahap pertama, kemudian business plan pada penyisihan tahap kedua, dan kompetisi produk beserta proyeksi bisnisnya
 
 #### Deliverable ITB Online Hackathon 
-- Ringkasan eksekutif dari ide bisnis/start up/usaha yang berorientasi produk TIK, baik jasa maupun produk
-- Business canvas model
 - Detail Deliverables : [Deliverable Online Hackathon Pra Gemastik 2021](https://docs.google.com/document/d/1SWfNQxdKHL18gRfCJ9VsaDvGBMEaDyHjoZXt1Agrsxs/edit?usp=sharing)
 - Referensi Tahun Lalu
   - Deliverables Pra GEMASTIK 2020: [Detail Deliverable Online ICT Business Development 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Pengembangan%20Bisnis%20TIK.pdf)
