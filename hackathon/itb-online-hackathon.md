@@ -30,7 +30,7 @@ Bagi tim ITB yang mendaftar pada GEMASTIK 14 akan disediakan Microsoft Teams unt
 
 **Pengumpulan deliverables** selain bidang Pemrograman dapat dilakukan pada form ini: [bit.ly/submit-pragemastik-itb-2021](https://bit.ly/submit-pragemastik-itb-2021)
 
-Batas Pengumpulan: **Rabu, 30 Juni 2021 pukul 12.00 WIB**
+Batas Pengumpulan: **Rabu, 30 Juni 2021 pukul 23.59 WIB**
 
 ## Pendaftaran
 
