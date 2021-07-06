@@ -6,7 +6,7 @@ permalink: /cara-daftar-gemastik
 
 # Cara Daftar GEMASTIK XIV
 
-Berikut adalah tata cara dalam mendaftar GEMASTIK XIV:
+Berikut adalah **tata cara dalam mendaftar GEMASTIK XIV**:
 1. Masuk ke laman [https://gemastik.kemdikbud.go.id/register-tim](https://gemastik.kemdikbud.go.id/register-tim)
 1. Masukkan kode perguruan tinggi (**002001 - Institut Teknologi Bandung**)
 1. Masukkan **data tim** dan **data anggota tim Anda**.
@@ -36,6 +36,7 @@ Berikut adalah tata cara dalam mendaftar GEMASTIK XIV:
     Password: dosen-13518012-01
     ```
     **Catatan:**
-    Akun dosen digunakan untuk verifikasi oleh dosen. Jangan sampai lupa username dan password akun dosen ini.
+    
+    Akun dosen digunakan untuk **verifikasi oleh dosen**. Jangan sampai lupa username dan password akun dosen ini.
 
 1. Kemudian **Wajib** mengisi form data pendaftaran GEMASTIK di form [berikut](https://forms.gle/nAKxkydZKPbc1oYw5).
