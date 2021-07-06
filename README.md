@@ -15,6 +15,10 @@ Situs resmi GEMASTIK 14: [gemastik.kemdikbud.go.id](http://gemastik.kemdikbud.go
 
 Untuk melihat panduan lengkap GEMASTIK 14, Anda dapat melihat informasi resmi dari puspernas di link [ini](https://pusatprestasinasional.kemdikbud.go.id/wp-content/uploads/2021/05/Pedoman-GEMASTIK-2021.pdf).
 
+### Cara Daftar GEMASTIK 14
+
+Untuk mengetahui cara daftar GEMASTIK 14, Anda dapat melihatnya pada laman [Cara Daftar GEMASTIK XIV](cara-daftar-gemastik)
+
 ### Timeline GEMASTIK 14
 - Tahap 1: pendaftaran perguruan tinggi: **1 Juni 2021 - 15 Juli 2021**
 - Tahap 2: pendaftaran tim untuk semua lomba: **15 Juni 2021 - 15 Juli 2021**
