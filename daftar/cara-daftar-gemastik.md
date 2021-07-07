@@ -6,16 +6,16 @@ permalink: /cara-daftar-gemastik
 
 # Cara Daftar GEMASTIK XIV
 
-Berikut adalah **tata cara dalam mendaftar GEMASTIK XIV**:
-1. Masuk ke laman [https://gemastik.kemdikbud.go.id/register-tim](https://gemastik.kemdikbud.go.id/register-tim)
+Untuk melakukan pendaftaran GEMASTIK XIV, Anda tidak perlu memenangkan atau bahkan mengikuti Pra GEMASTIK, cukup ikuti panduan ini. Berikut adalah **Panduan dalam mendaftar GEMASTIK XIV**:
+1. Masuk ke laman <a href="https://gemastik.kemdikbud.go.id/register-tim" target="_blank">Register Tim GEMASTIK</a>
 1. Masukkan kode perguruan tinggi (**002001 - Institut Teknologi Bandung**)
 1. Masukkan **data tim** dan **data anggota tim Anda**.
 1. Untuk **data dosen pembimbing** dapat Anda dilihat di *sheets* [berikut](https://docs.google.com/spreadsheets/d/1AIb2KYize3qZNN3CYgsTj5uxvpBHVCxZOkFtDvmJ8Pw/edit?usp=sharing).
 
     Untuk membuat **akun dosen** gunakan format berikut:
     ```
-    username: dosen-{NIM}-{kode-bidang}
-    password: dosen-{NIM}-{kode-bidang}
+    username: dosen-{NIM Ketua Tim}-{kode-bidang}
+    password: dosen-{NIM Ketua Tim}-{kode-bidang}
     ```
     **Kode Bidang:**
     - Pemrograman (01)
@@ -30,7 +30,7 @@ Berikut adalah **tata cara dalam mendaftar GEMASTIK XIV**:
     - Pengembangan Aplikasi Permainan (10)
     - Pengembangan Bisnis TIK (11)
 
-    Contoh untuk **NIM 13518012** dan **bidang pemrograman**:
+    Contoh untuk **NIM Ketua Tim = 13518012** dan **bidang pemrograman**:
     ```
     Username: dosen-13518012-01
     Password: dosen-13518012-01
@@ -40,3 +40,5 @@ Berikut adalah **tata cara dalam mendaftar GEMASTIK XIV**:
     Akun dosen digunakan untuk **verifikasi oleh dosen**. Jangan sampai lupa username dan password akun dosen ini.
 
 1. Kemudian **Wajib** mengisi form data pendaftaran GEMASTIK di form [berikut](https://forms.gle/nAKxkydZKPbc1oYw5).
+1. Setelah Anda selesai membuat akun, silahkan masuk ke akun tersebut dan isi beberapa data tambahan yang perlu diisi.
+1. Tunggu **Verifikasi** dari Dosen dan dari Operator PT, jika belum juga diverifikasi mendekati deadline hubungi kontak dosen pembimbing atau ke Contact Person (idline: m.hasan01) ya :D
