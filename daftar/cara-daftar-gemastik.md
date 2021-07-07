@@ -12,7 +12,7 @@ Untuk melakukan pendaftaran GEMASTIK XIV, Anda tidak perlu memenangkan atau bahk
 1. Masukkan **data tim** dan **data anggota tim Anda**.
 1. Untuk **data dosen pembimbing** dapat Anda dilihat di *sheets* [berikut](https://docs.google.com/spreadsheets/d/1AIb2KYize3qZNN3CYgsTj5uxvpBHVCxZOkFtDvmJ8Pw/edit?usp=sharing).
 
-    Untuk membuat **akun dosen** gunakan format berikut:
+    Pada bagian pengisian data dosen, Anda perlu membuat **akun dosen** untuk tim Anda. Untuk membuat **akun dosen** tersebut, gunakan format berikut:
     ```
     username: dosen-{NIM Ketua Tim}-{kode-bidang}
     password: dosen-{NIM Ketua Tim}-{kode-bidang}
