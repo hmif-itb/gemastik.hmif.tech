@@ -41,4 +41,4 @@ Untuk melakukan pendaftaran GEMASTIK XIV, Anda tidak perlu memenangkan atau bahk
 
 1. Kemudian **Wajib** mengisi form data pendaftaran GEMASTIK di form [berikut](https://forms.gle/nAKxkydZKPbc1oYw5).
 1. Setelah Anda selesai membuat akun tim Anda, silahkan masuk ke akun tim Anda tersebut dan isi beberapa data tambahan yang perlu diisi.
-1. Tunggu **Verifikasi** dari Dosen dan dari Operator PT, jika belum juga diverifikasi mendekati deadline hubungi kontak dosen pembimbing atau ke Contact Person (idline: m.hasan01) ya :D
+1. Tunggu **Verifikasi** dari Dosen dan dari Operator PT, jika belum juga diverifikasi mendekati deadline pendaftaran GEMASATIK (15 Juli 2021) hubungi kontak dosen pembimbing atau ke Contact Person (idline: m.hasan01) ya :D
