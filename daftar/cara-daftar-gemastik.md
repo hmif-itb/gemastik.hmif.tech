@@ -4,7 +4,7 @@ title: "Cara Daftar GEMASTIK XIV"
 permalink: /cara-daftar-gemastik
 ---
 
-# Cara Daftar GEMASTIK XIV
+# Cara Daftar GEMASTIK XV
 
 Untuk melakukan pendaftaran GEMASTIK XIV, Anda tidak perlu memenangkan atau bahkan mengikuti Pra GEMASTIK, cukup ikuti panduan ini. Batas dalam melakukan pendaftaran ini adalah **Minggu, 11 Juli 2021 Pukul 23:59 WIB**. Berikut adalah **Panduan dalam mendaftar GEMASTIK XIV**:
 1. Masuk ke laman <a href="https://gemastik.kemdikbud.go.id/register-tim" target="_blank">Register Tim GEMASTIK</a>
