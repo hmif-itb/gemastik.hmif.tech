@@ -12,14 +12,14 @@ Kota Cerdas atau smart city adalah suatu konsep mengenai pemanfaatan data untuk 
 Skill set: Problem Analysis, Prototyping, Analytical Skills, Writing Skills, Communication, Presentation Skills
 
 ## Timeline
-- Pendaftaran: 15 Juni 2021 - 15 Juli 2021
-- Batas Unggah Proposal: 29 Juli 2021
-- Masa Penjurian Babak Penyisihan: 31 Juli 2021 - 10 Agustus 2021
-- Pengumuman Babak Penyisihan: 12 Agustus 2021
-- Babak Final: 4 - 7 Oktober 2021
+- Pendaftaran: 15 Juni 2022 - 15 Juli 2022
+- Batas Unggah Proposal: 29 Juli 2022
+- Masa Penjurian Babak Penyisihan: 31 Juli 2022 - 10 Agustus 2022
+- Pengumuman Babak Penyisihan: 12 Agustus 2022
+- Babak Final: 4 - 7 Oktober 2022
 
 ## Pembimbingan
 
 Untuk cabang lomba ini, ITB mengadakan pembimbingan. Agar kamu dapat melakukan pembimbingan, kamu harus diseleksi dulu dengan mengikuti [ITB Online Hackathon](hackathon), berikut adalah deliverable untuk hackathon pada cabang ini:
-- Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2021
+- Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2022
 - Dokumen yang dikumpulkan adalah proposal dan PPT yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
