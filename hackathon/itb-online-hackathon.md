@@ -1,34 +1,34 @@
 ---
 layout: page
-title: "ITB Online Hackathon: Pra-Gemastik 14"
+title: "ITB Online Hackathon: Pra-Gemastik 15"
 permalink: /hackathon
 ---
 
-# ITB Online Hackathon: Pra-Gemastik 14
+# ITB Online Hackathon: Pra-Gemastik 15
 
 ## Deskripsi
 
-ITB Online Hackathon - Pra Gemastik 2021 adalah lomba internal ITB yang diselenggarakan sebagai persiapan dari keikutsertaan ITB pada lomba Gemastik 2021. Diharapkan dengan adanya Pra-GEMASTIK ini, mahasiswa ITB dapat belajar dan lebih siap dalam menghadapai GEMASTIK 14.
+ITB Online Hackathon - Pra Gemastik 2021 adalah lomba internal ITB yang diselenggarakan sebagai persiapan dari keikutsertaan ITB pada lomba Gemastik 2021. Diharapkan dengan adanya Pra-GEMASTIK ini, mahasiswa ITB dapat belajar dan lebih siap dalam menghadapai GEMASTIK 15.
 
 ## Timeline
 - Batas Pendaftaran: **Minggu, 20 Juni 2021 Pukul 23:59 WIB**
-- Mulai Pelaksanaan Pra-GEMASTIK 14: **Selasa, 29 Juni 2021**
+- Mulai Pelaksanaan Pra-GEMASTIK 15: **Selasa, 29 Juni 2021**
   - Informasi pelaksanaan akan diberikan melalui **e-mail** ataupun **MS Teams** yang nanti akan dibuat.
-- Pelaksanaan Bidang Lomba Pemrograman: **Minggu, 27 Juni 2021 Pukul 09.30 WIB - 14.30 WIB**
+- Pelaksanaan Bidang Lomba Pemrograman: **Minggu, 27 Juni 2021 Pukul 09.30 WIB - 15.30 WIB**
 - Batas Pengumpulan Selain Bidang Pemrograman : **Rabu, 30 Juni 2021 pukul 12.00 WIB**
 - Pengumuman Pemenang: **Coming Soon**
 
 ## Hadiah
-- Bimbingan dan pelatihan GEMASTIK 14
+- Bimbingan dan pelatihan GEMASTIK 15
 - Total Hadiah: **Rp. 54.000.000,00**
 
-### Pembimbingan GEMASTIK 14
+### Pembimbingan GEMASTIK 15
 
-Bagi tim ITB yang mendaftar pada GEMASTIK 14 akan disediakan Microsoft Teams untuk melakukan komunikasi antara peserta dengan pembina saat pembinaan berlangsung, jika Anda ingin memberikan saran atau pendapat untuk pembinaan nanti tolong hubungi [Contact Person](#contact-person)
+Bagi tim ITB yang mendaftar pada GEMASTIK 15 akan disediakan Microsoft Teams untuk melakukan komunikasi antara peserta dengan pembina saat pembinaan berlangsung, jika Anda ingin memberikan saran atau pendapat untuk pembinaan nanti tolong hubungi [Contact Person](#contact-person)
 
-### Cara Daftar GEMASTIK 14
+### Cara Daftar GEMASTIK 15
 
-Untuk mengetahui cara daftar GEMASTIK 14, Anda dapat melihatnya pada laman [Cara Daftar GEMASTIK XIV](cara-daftar-gemastik)
+Untuk mengetahui cara daftar GEMASTIK 15, Anda dapat melihatnya pada laman [Cara Daftar GEMASTIK XIV](cara-daftar-gemastik)
 
 ## Pengumpulan Deliverables
 
@@ -47,7 +47,7 @@ Mengingatkan bahwa batas pendaftaran adalah **Rabu, 23 Juni 2021 Pukul 23:59 WIB
 Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2021 dengan deliverables yang lebih sederhana.
 
 Spesifikasi Gemastik: 
-- [Panduan Gemastik 14 Tahun 2021](https://pusatprestasinasional.kemdikbud.go.id/wp-content/uploads/2021/05/Pedoman-GEMASTIK-2021.pdf)
+- [Panduan Gemastik 15 Tahun 2021](https://pusatprestasinasional.kemdikbud.go.id/wp-content/uploads/2021/05/Pedoman-GEMASTIK-2021.pdf)
 
 ## Bidang Lomba
 
