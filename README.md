@@ -1,22 +1,21 @@
 # Informasi Lomba GEMASTIK 15
 
-### Halo, Warga ITB!
+## Halo, Warga ITB!
 
 Situs ini berisi informasi tentang ajang GEMASTIK 15 khusus untuk mahasiswa Institut Teknologi Bandung.
 
 ### Apa itu GEMASTIK?
 
 <div style="text-align: justify">
-
-**GEMASTIK** atau Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi, merupakan program Kementerian Pendidikan dan Kebudayaan. Program ini ditujukan untuk meningkatkan kompetensi mahasiswa Indonesia, sehingga mampu mengambil peran sebagai agen perubahan dalam memajukan TIK dan pemanfaatannya, baik ketika masih dalam masa studi maupun kelak sesudah lulus studi.
-
+  <strong>GEMASTIK</strong> atau Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi, merupakan program Kementerian Pendidikan dan Kebudayaan. Program ini ditujukan untuk meningkatkan kompetensi mahasiswa Indonesia, sehingga mampu mengambil peran sebagai agen perubahan dalam memajukan TIK dan pemanfaatannya, baik ketika masih dalam masa studi maupun kelak sesudah lulus studi.
 </div>
+<br>
 
 Situs resmi GEMASTIK 15: [gemastik.kemdikbud.go.id](http://gemastik.kemdikbud.go.id/)
 
 ### Panduan Lengkap GEMASTIK 15
 
-Untuk melihat panduan lengkap GEMASTIK 15, Anda dapat melihat informasi resmi dari puspernas di link [ini](https://pusatprestasinasional.kemdikbud.go.id/wp-content/uploads/2021/05/Pedoman-GEMASTIK-2021.pdf).
+Untuk melihat panduan lengkap GEMASTIK 15, Anda dapat melihat informasi resmi dari puspernas di link (TBA).
 
 ### Cara Daftar GEMASTIK 15
 
@@ -24,19 +23,19 @@ Untuk mengetahui cara daftar GEMASTIK 15, Anda dapat melihatnya pada laman [Cara
 
 ### Timeline GEMASTIK 15
 
-|                  Nama                   |                  Tanggal                   |
-| :-------------------------------------: | :----------------------------------------: |
-|      Pendaftaran perguruan tinggi       |       **1 Juni 2021 - 15 Juli 2021**       |
-|    Pendaftaran tim untuk semua lomba    |      **15 Juni 2021 - 15 Juli 2021**       |
-|        Pemanasan Keamanan Siber         |    **31 Juli 2021, 09.00 - 22.00 WIB**     |
-|          Pemanasan Pemrograman          |   **01 Agustus 2021, 10.00 - 15.00 WIB**   |
-|        Penyisihan Keamanan Siber        |   **07 Agustus 2021, 18.00 - 23.00 WIB**   |
-|         Penyisihan Pemrograman          |   **08 Agustus 2021, 09.00 - 12.00 WIB**   |
-| Batas unggah proposal lomba bidang lain |              **29 Juli 2021**              |
-|        Masa penjurian penyisihan        |     **31 Juli 2021 - 10 Agustus 2021**     |
-|       Pengumuman babak penyisihan       |            **12 Agustus 2021**             |
-|     Pendaftaran ulang peserta final     |         **24 – 30 September 2021**         |
-|       Babak final & puncak acara        | **04 – 07 Oktober 2021** secara **daring** |
+| Nama                                    | Tanggal |
+| :-------------------------------------- | :-----: |
+| Pendaftaran perguruan tinggi            |   TBA   |
+| Pendaftaran tim untuk semua lomba       |   TBA   |
+| Pemanasan Keamanan Siber                |   TBA   |
+| Pemanasan Pemrograman                   |   TBA   |
+| Penyisihan Keamanan Siber               |   TBA   |
+| Penyisihan Pemrograman                  |   TBA   |
+| Batas unggah proposal lomba bidang lain |   TBA   |
+| Masa penjurian penyisihan               |   TBA   |
+| Pengumuman babak penyisihan             |   TBA   |
+| Pendaftaran ulang peserta final         |   TBA   |
+| Babak final & puncak acara              |   TBA   |
 
 ### Mata Lomba
 
@@ -54,11 +53,18 @@ Untuk mengetahui cara daftar GEMASTIK 15, Anda dapat melihatnya pada laman [Cara
 
 ### Pembimbingan Lomba dan ITB Online Hackathon
 
-Untuk meningkatkan prestasi ITB pada lomba GEMASTIK, maka DITMAWA dan HMIF ITB akan mengadakan bimbingan untuk semua bidang lomba. Terkhusus 10 bidang lomba, Anda diwajibkan untuk mengikuti ITB Online Hackathon Pra-Gemastik (hackathon 7 hari untuk lomba karya) dan 5 jam lomba pemrograman, yang detailnya dapat dilihat pada laman ini: [ITB Online Hackathon](hackathon).
+<div style="text-align: justify">
+Untuk meningkatkan prestasi ITB pada lomba GEMASTIK, maka DITMAWA dan HMIF ITB akan mengadakan bimbingan untuk semua bidang lomba. Terkhusus 10 bidang lomba, Anda diwajibkan untuk mengikuti ITB Online Hackathon Pra-Gemastik <strong>(hackathon 7 hari untuk lomba karya)</strong> dan 5 jam lomba pemrograman.
+</div>
+<br/>
+
+Untuk detailnya dapat dilihat pada laman ini: [ITB Online Hackathon](hackathon).
+<br/>
 
 ### Kontak
 
 Apabila kamu memiliki pertanyaan, atau ingin mencari anggota tim dari HMIF, kamu bisa menghubungi:
 
 - Hera: WA - / Line - / Email 13519131@std.stei.itb.ac.id
-- Cello: WA - / Line - / Email 13519086@std.stei.itb.ac.id
+- Cello: WA 081272401038 / Line - / Email 13519086@std.stei.itb.ac.id
+- Gare: WA 082216612002 / Line: gare26 / Email 13520029@std.stei.itb.ac.id
