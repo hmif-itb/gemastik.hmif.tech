@@ -12,15 +12,15 @@ ITB Online Hackathon - Pra Gemastik 2022 adalah lomba internal ITB yang diseleng
 
 ## Timeline Pra-Gemastik 15
 
-Secara umum acara Pra-Gemastik 15 dimulai dari tanggal **21 Juni 2022 Hingga 7 Oktober 2022**. Adapun detail timeline sebagai berikut
+Secara umum acara Pra-Gemastik 15 dimulai dari tanggal **24 Juni 2022 Hingga 7 Oktober 2022**. Adapun detail timeline sebagai berikut
 
 | Nama                                        | Tanggal |
 | :------------------------------------------ | :-----: |
-| Batas Pendaftaran                           |   TBA   |
-| Mulai Pelaksanaan Pra-GEMASTIK 15           |   TBA   |
+| Batas Pendaftaran                           |   3 Juli 2022   |
+| Mulai Pelaksanaan Pra-GEMASTIK 15           |   3 Juli 2022   |
 | Pelaksanaan Bidang Lomba Pemrograman        |   TBA   |
-| Batas Pengumpulan Selain Bidang Pemrograman |   TBA   |
-| Pengumuman Pemenang                         |   TBA   |
+| Batas Pengumpulan Selain Bidang Pemrograman |   10 Juli 2022   |
+| Pengumuman Pemenang                         |   13  Juli 2022  |
 
 Informasi pelaksanaan akan diberikan melalui **e-mail** ataupun **MS Teams** yang nanti akan dibuat.
 
@@ -250,5 +250,5 @@ Deliverables dapat di akses pada link berikut [Panduan Pra Gemastik PPL](https:/
 ## Contact Person
 
 - Hera: WA - / Line - / Email 13519131@std.stei.itb.ac.id
-- Cello: WA 081272401038 / Line - / Email 13519086@std.stei.itb.ac.id
+- Cello: WA 081272401038 / Line mar_cellof / Email 13519086@std.stei.itb.ac.id
 - Gare: WA 082216612002 / Line: gare26 / Email 13520029@std.stei.itb.ac.id
