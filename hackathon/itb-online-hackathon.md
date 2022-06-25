@@ -41,13 +41,13 @@ Untuk mengetahui cara daftar GEMASTIK 15, Anda dapat melihatnya pada laman [Cara
 
 **Pengumpulan deliverables** selain bidang Pemrograman dapat dilakukan pada form ini: (TBA)
 
-Batas Pengumpulan: **TBA**
+Batas Pengumpulan: **10 Juli 2022**
 
 ## Pendaftaran
 
-Pendaftaran bisa diakses pada link ini: (TBA)
+Pendaftaran bisa diakses pada link ini: bit.ly/DaftarPraGemastik2022
 
-Mengingatkan bahwa batas pendaftaran adalah **TBA**.
+Mengingatkan bahwa batas pendaftaran adalah **3 Juli 2022**.
 
 ## Problem Statement
 
