@@ -51,9 +51,9 @@ Mengingatkan bahwa batas pendaftaran adalah **3 Juli 2022**.
 
 ## Problem Statement
 
-Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2022 dengan deliverables yang lebih sederhana.
+Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2021 dengan deliverables yang lebih sederhana.
 
-Spesifikasi Gemastik: (TBA)
+Spesifikasi Gemastik: https://gemastik.kemdikbud.go.id/assets-frontsite/gemastik/unduhan/Pedoman-GEMASTIK-2021.pdf
 
 ## Bidang Lomba
 
