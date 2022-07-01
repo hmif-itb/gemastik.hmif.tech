@@ -6,7 +6,7 @@ permalink: /cara-daftar-gemastik
 
 # Cara Daftar GEMASTIK XV
 
-Untuk melakukan pendaftaran GEMASTIK XIV, Anda tidak perlu memenangkan atau bahkan mengikuti Pra GEMASTIK, cukup ikuti panduan ini. Batas dalam melakukan pendaftaran ini adalah **TBA**. Berikut adalah **Panduan dalam mendaftar GEMASTIK XIV**:
+Untuk melakukan pendaftaran GEMASTIK XV, Anda tidak perlu memenangkan atau bahkan mengikuti Pra GEMASTIK, cukup ikuti panduan ini. Batas dalam melakukan pendaftaran ini adalah **TBA**. Berikut adalah **Panduan dalam mendaftar GEMASTIK XV**:
 
 1. Masuk ke laman <a href="https://gemastik.kemdikbud.go.id/register-tim" target="_blank">Register Tim GEMASTIK</a>
 1. Masukkan kode perguruan tinggi (**002001 - Institut Teknologi Bandung**)

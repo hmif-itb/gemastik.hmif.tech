@@ -17,9 +17,9 @@ Situs resmi GEMASTIK 15: [gemastik.kemdikbud.go.id](http://gemastik.kemdikbud.go
 
 Untuk melihat panduan lengkap GEMASTIK 15, Anda dapat melihat informasi resmi dari puspernas di link (TBA).
 
-### Cara Daftar GEMASTIK 15
+<!-- ### Cara Daftar GEMASTIK 15
 
-Untuk mengetahui cara daftar GEMASTIK 15, Anda dapat melihatnya pada laman [Cara Daftar GEMASTIK XIV](cara-daftar-gemastik)
+Untuk mengetahui cara daftar GEMASTIK 15, Anda dapat melihatnya pada laman [Cara Daftar GEMASTIK XV](cara-daftar-gemastik) -->
 
 ### Timeline GEMASTIK 15
 
