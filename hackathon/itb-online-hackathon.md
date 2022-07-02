@@ -6,6 +6,10 @@ permalink: /hackathon
 
 # ITB Online Hackathon: Pra-Gemastik 15
 
+
+# Notes
+Semua panduan untuk seluruh cabang lomba tahun ini masih belum ada, jadi untuk sementara waktu gunakan referensi tahun lalu untuk menjadi gambaran lomba tahun ini. Pengumuman mengenai update dari website akan diberitahukan lebih lanjut melalui email dan group line.
+
 ## Deskripsi
 
 ITB Online Hackathon - Pra Gemastik 2022 adalah lomba internal ITB yang diselenggarakan sebagai persiapan dari keikutsertaan ITB pada lomba Gemastik 2022. Diharapkan dengan adanya Pra-GEMASTIK ini, mahasiswa ITB dapat belajar dan lebih siap dalam menghadapi GEMASTIK 15.
