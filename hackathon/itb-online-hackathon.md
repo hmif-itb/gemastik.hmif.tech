@@ -26,7 +26,8 @@ Secara umum acara Pra-Gemastik 15 dimulai dari tanggal **24 Juni 2022 Hingga 7 O
 | Batas Pengumpulan Selain Bidang Pemrograman | (TBA) |
 | Pengumuman Pemenang                         | (TBA) |
 
-Informasi pelaksanaan akan diberikan melalui **e-mail** ataupun **Grup Line** yang nanti akan dibuat.
+**Pelaksanaan pra-gemastik untuk sementara akan ditunda menunggu timeline dari puspresnas**.
+Informasi kepastian pelaksanaan lebih lanjut akan diberikan melalui **e-mail** ataupun **Grup Line** yang nanti akan dibuat.
 
 ## Hadiah
 
