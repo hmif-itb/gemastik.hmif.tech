@@ -16,15 +16,15 @@ ITB Online Hackathon - Pra Gemastik 2022 adalah lomba internal ITB yang diseleng
 
 ## Timeline Pra-Gemastik 15
 
-Secara umum acara Pra-Gemastik 15 dimulai dari tanggal **24 Juni 2022 Hingga 7 Oktober 2022**. Adapun detail timeline sebagai berikut
+Secara umum acara Pra-Gemastik 15 dimulai dari tanggal **11 September 2022 Hingga 18 November 2022**. Adapun detail timeline sebagai berikut
 
-| Nama                                        |   Tanggal   |
-| :------------------------------------------ | :---------: |
-| Batas Pendaftaran                           | 2 Juli 2022 |
-| Mulai Pelaksanaan Pra-GEMASTIK 15           |    (TBA)    |
-| Pelaksanaan Bidang Lomba Pemrograman        |    (TBA)    |
-| Batas Pengumpulan Selain Bidang Pemrograman |    (TBA)    |
-| Pengumuman Pemenang                         |    (TBA)    |
+| Nama                                        |          Tanggal          |
+| :------------------------------------------ | :-----------------------: |
+| Batas Pendaftaran                           |        2 Juli 2022        |
+| Mulai Pelaksanaan Pra-GEMASTIK 15           | 11 Sep 2022 - 18 Sep 2022 |
+| Pelaksanaan Bidang Lomba Pemrograman        |           (TBA)           |
+| Batas Pengumpulan Selain Bidang Pemrograman |           (TBA)           |
+| Pengumuman Pemenang                         |        22 Sep 2022        |
 
 **Pelaksanaan pra-gemastik untuk sementara akan ditunda menunggu timeline dari puspresnas**.
 Informasi kepastian pelaksanaan lebih lanjut akan diberikan melalui **e-mail** ataupun **Grup Line** yang nanti akan dibuat.
@@ -58,7 +58,7 @@ Mengingatkan bahwa batas pendaftaran adalah **2 Juli 2022**.
 
 Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2022 dengan deliverables yang lebih sederhana.
 
-Spesifikasi Gemastik: Dapat dilihat di [sini](https://gemastik.kemdikbud.go.id/assets-frontsite/gemastik/unduhan/Pedoman-GEMASTIK-2022.pdf)
+Spesifikasi Gemastik: Dapat dilihat di [sini](https://pusatprestasinasional.kemdikbud.go.id/pengumuman/dikti/pengumuman-pagelaran-mahasiswa-nasional-bidang-teknologi-informasi-dan-komunikasi-tahun-2022-2022-dikti)
 
 ## Bidang Lomba
 
@@ -92,16 +92,14 @@ Note : beberapa cabang lomba terdapat video penjelasan karya terkait. Video dapa
 
 #### Deskripsi
 
-Lomba Desain Pengalaman Pengguna (UX Design) adalah lomba desain interaksi produk yang berorientasi pada kenyamanan dan kemudahan bagi pengguna.
-Dalam lomba ini yang menjadi fokus utama adalah pengalaman yang dirasakan pengguna ketika sedang menggunakan aplikasi tersebut secara menyeluruh
-Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang baik dengan menggunakan metode, sehingga didapatkan hasil desain aplikasi yang memiliki kualitas UX yang baik.
+Lomba Desain Pengalaman Pengguna (UX Design) adalah lomba desain interaksi produk yang berorientasi pada kenyamanan dan kemudahan bagi pengguna. Dalam lomba ini yang menjadi fokus utama adalah pengalaman yang dirasakan pengguna ketika sedang menggunakan aplikasi tersebut secara menyeluruh. Para peserta lomba dituntut agar dapat merancang suatu antarmuka dan pengalaman pengguna yang baik dengan menggunakan metode terkait, sehingga didapatkan hasil desain aplikasi yang memiliki kualitas UX yang baik.
 
 #### Deliverable ITB Online Hackathon
 
 - Proposal
 - Video (Max 2 menit)
 - Poster
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables UX Design 2022](https://docs.google.com/document/d/1w2wptGg6AoK9braVWV22WmmSIIh07bEziE1TBh1Wk3k/edit?usp=sharing)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables UX Design 2022](https://docs.google.com/document/d/1yLPakdNyCzgAnGhju_Ek3CKqEsrF0qZo8p21n2S6UdU/edit#heading=h.4jypdeyrqx9l)
 - Referensi:
   - Detail Deliverables tahun lalu dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
 
