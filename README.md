@@ -11,11 +11,9 @@ Situs ini berisi informasi tentang ajang GEMASTIK 15 khusus untuk mahasiswa Inst
 </div>
 <br>
 
-Situs resmi GEMASTIK 15: [gemastik.kemdikbud.go.id](http://gemastik.kemdikbud.go.id/)
-
 ### Panduan Lengkap GEMASTIK 15
 
-Untuk melihat panduan lengkap GEMASTIK 15, Anda dapat melihat informasi resmi dari puspernas di link (TBA).
+Untuk melihat panduan lengkap GEMASTIK 15, Anda dapat melihat informasi resmi dari puspernas di link [berikut](https://pusatprestasinasional.kemdikbud.go.id/pengumuman/dikti/pengumuman-pagelaran-mahasiswa-nasional-bidang-teknologi-informasi-dan-komunikasi-tahun-2022-2022-dikti)
 
 <!-- ### Cara Daftar GEMASTIK 15
 
@@ -23,19 +21,19 @@ Untuk mengetahui cara daftar GEMASTIK 15, Anda dapat melihatnya pada laman [Cara
 
 ### Timeline GEMASTIK 15
 
-| Nama                                    | Tanggal |
-| :-------------------------------------- | :-----: |
-| Pendaftaran perguruan tinggi            |   TBA   |
-| Pendaftaran tim untuk semua lomba       |   TBA   |
-| Pemanasan Keamanan Siber                |   TBA   |
-| Pemanasan Pemrograman                   |   TBA   |
-| Penyisihan Keamanan Siber               |   TBA   |
-| Penyisihan Pemrograman                  |   TBA   |
-| Batas unggah proposal lomba bidang lain |   TBA   |
-| Masa penjurian penyisihan               |   TBA   |
-| Pengumuman babak penyisihan             |   TBA   |
-| Pendaftaran ulang peserta final         |   TBA   |
-| Babak final & puncak acara              |   TBA   |
+| Nama                                    |              Tanggal               |
+| :-------------------------------------- | :--------------------------------: |
+| Pendaftaran perguruan tinggi            |        2 Sept – 1 Okt 2022         |
+| Pendaftaran tim untuk semua lomba       |        2 Sept – 1 Okt 2022         |
+| Pemanasan Keamanan Siber                | 16 Oktober 2022, 09.00 - 22.00 WIB |
+| Pemanasan Pemrograman                   | 16 Oktober 2022, 10.00 - 15.00 WIB |
+| Penyisihan Keamanan Siber               | 23 Oktober 2022, 09.00 - 12.00 WIB |
+| Penyisihan Pemrograman                  | 23 Oktober 2022, 09.00 - 12.00 WIB |
+| Batas unggah proposal lomba bidang lain |   22 September – 16 Oktober 2022   |
+| Masa penjurian penyisihan               |    17 Oktober – 28 Oktober 2022    |
+| Pengumuman babak penyisihan             |    17 Oktober – 28 Oktober 2022    |
+| Pendaftaran ulang peserta final         |        1 – 6 November 2022         |
+| Babak final & puncak acara              |        15-18 November 2022         |
 
 ### Mata Lomba
 

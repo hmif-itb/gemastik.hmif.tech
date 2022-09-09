@@ -6,8 +6,8 @@ permalink: /hackathon
 
 # ITB Online Hackathon: Pra-Gemastik 15
 
-
 # Notes
+
 Semua panduan untuk seluruh cabang lomba tahun ini masih belum ada, jadi untuk sementara waktu gunakan referensi tahun lalu untuk menjadi gambaran lomba tahun ini. Pengumuman mengenai update dari website akan diberitahukan lebih lanjut melalui email dan group line.
 
 ## Deskripsi
@@ -18,13 +18,13 @@ ITB Online Hackathon - Pra Gemastik 2022 adalah lomba internal ITB yang diseleng
 
 Secara umum acara Pra-Gemastik 15 dimulai dari tanggal **24 Juni 2022 Hingga 7 Oktober 2022**. Adapun detail timeline sebagai berikut
 
-| Nama                                        |   Tanggal    |
-| :------------------------------------------ | :----------: |
-| Batas Pendaftaran                           | 2 Juli 2022  |
-| Mulai Pelaksanaan Pra-GEMASTIK 15           | (TBA) |
-| Pelaksanaan Bidang Lomba Pemrograman        | (TBA) |
-| Batas Pengumpulan Selain Bidang Pemrograman | (TBA) |
-| Pengumuman Pemenang                         | (TBA) |
+| Nama                                        |   Tanggal   |
+| :------------------------------------------ | :---------: |
+| Batas Pendaftaran                           | 2 Juli 2022 |
+| Mulai Pelaksanaan Pra-GEMASTIK 15           |    (TBA)    |
+| Pelaksanaan Bidang Lomba Pemrograman        |    (TBA)    |
+| Batas Pengumpulan Selain Bidang Pemrograman |    (TBA)    |
+| Pengumuman Pemenang                         |    (TBA)    |
 
 **Pelaksanaan pra-gemastik untuk sementara akan ditunda menunggu timeline dari puspresnas**.
 Informasi kepastian pelaksanaan lebih lanjut akan diberikan melalui **e-mail** ataupun **Grup Line** yang nanti akan dibuat.
@@ -56,9 +56,9 @@ Mengingatkan bahwa batas pendaftaran adalah **2 Juli 2022**.
 
 ## Problem Statement
 
-Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2021 dengan deliverables yang lebih sederhana.
+Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2022 dengan deliverables yang lebih sederhana.
 
-Spesifikasi Gemastik: Dapat dilihat di [sini](https://gemastik.kemdikbud.go.id/assets-frontsite/gemastik/unduhan/Pedoman-GEMASTIK-2021.pdf)
+Spesifikasi Gemastik: Dapat dilihat di [sini](https://gemastik.kemdikbud.go.id/assets-frontsite/gemastik/unduhan/Pedoman-GEMASTIK-2022.pdf)
 
 ## Bidang Lomba
 
@@ -101,7 +101,7 @@ Para peserta lomba dituntut agar dapat merancang suatu antarmuka pengguna yang b
 - Proposal
 - Video (Max 2 menit)
 - Poster
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2021: [Deliverables UX Design 2021](https://docs.google.com/document/d/1w2wptGg6AoK9braVWV22WmmSIIh07bEziE1TBh1Wk3k/edit?usp=sharing)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables UX Design 2022](https://docs.google.com/document/d/1w2wptGg6AoK9braVWV22WmmSIIh07bEziE1TBh1Wk3k/edit?usp=sharing)
 - Referensi:
   - Detail Deliverables tahun lalu dapat diakses di [Deliverables UX Design](https://gemastik.hmif.tech/assets/ITB%20Online%20Hackaton%202020%20-%20Technical%20Briefing%20-%20UX.pdf)
 
@@ -113,9 +113,9 @@ Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D
 
 #### Deliverable ITB Online Hackathon
 
-- Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2021
+- Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2022
 - Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2021: [Deliverables Animation 2021](https://docs.google.com/document/d/13cPyqbfmmcj55eVV959qKqOcio_TdNnsuYw30QCbdu4/edit?usp=sharing)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Animation 2022](https://docs.google.com/document/d/13cPyqbfmmcj55eVV959qKqOcio_TdNnsuYw30QCbdu4/edit?usp=sharing)
 - Referensi:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Animasi 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Animasi.pdf)
 
@@ -128,8 +128,8 @@ Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berba
 
 #### Deliverable ITB Online Hackathon
 
-- Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2021
-- Detail Pra-GEMASTIK XV Tahun 2021: [Detail Deliverable Online Hackathon Smart City 2021](https://docs.google.com/document/d/1kmNtAeYZ93R2lhTAuFuApJtK0P7QPgiBfjinOXvuY_g/edit?usp=sharing).
+- Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2022
+- Detail Pra-GEMASTIK XV Tahun 2022: [Detail Deliverable Online Hackathon Smart City 2022](https://docs.google.com/document/d/1kmNtAeYZ93R2lhTAuFuApJtK0P7QPgiBfjinOXvuY_g/edit?usp=sharing).
 - Dokumen yang dikumpulkan adalah proposal dan video yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
 - Referensi:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Smart City 2020](https://gemastik.hmif.tech/assets/Panduan%20Pra%20Gemastik%20Smart%20City%20untuk%20Peserta.docx.pdf)
@@ -146,7 +146,7 @@ Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dap
 
 - Dokumen ide dan desain (jika ada prototype, akan lebik baik)
 - Video yang menceritakan tahapan pengembangan ide dan perancangan karya inovasi, menjelaskan manfaat dari karya yang diusulkan, serta penjelasan cara menggunakannya. Durasi video maksimal 3 menit, diunggah ke YouTube. Tautan video tersebut dicantumkan pada dokumen.
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2021: [Deliverables Piranti Cerdas 2021](https://docs.google.com/document/d/1FhqWFv8nlRxSdy7iPtRdn0Q9841FWQU6lCjJRs7vAx0/edit?usp=sharing)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Piranti Cerdas 2022](https://docs.google.com/document/d/1FhqWFv8nlRxSdy7iPtRdn0Q9841FWQU6lCjJRs7vAx0/edit?usp=sharing)
 - Referensi:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas2.pdf)
   <!-- - Jika ada  pertanyaan lebih lanjut silahka bisa ditanyakan di email : kusprasapta.mutijarsa@gmail.com -->
@@ -163,7 +163,7 @@ Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan beri
 - Yang dikumpulkan: game design document
 - Kriteria: keseruan game, art dan teknis yang bagus
   (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2021: [Deliverables Game Development 2021](https://docs.google.com/document/d/1rfnpie67aVZKQZJWCXpIvM9hmhW9vUfuSOtSrYuK2gY/edit?usp=sharing)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Game Development 2022](https://docs.google.com/document/d/1rfnpie67aVZKQZJWCXpIvM9hmhW9vUfuSOtSrYuK2gY/edit?usp=sharing)
 
 ### 6. ICT Business Development
 
@@ -173,7 +173,7 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 
 #### Deliverable ITB Online Hackathon
 
-- Detail Deliverables : [Deliverable Online Hackathon Pra Gemastik 2021](https://docs.google.com/document/d/1SWfNQxdKHL18gRfCJ9VsaDvGBMEaDyHjoZXt1Agrsxs/edit?usp=sharing)
+- Detail Deliverables : [Deliverable Online Hackathon Pra Gemastik 2022](https://docs.google.com/document/d/1SWfNQxdKHL18gRfCJ9VsaDvGBMEaDyHjoZXt1Agrsxs/edit?usp=sharing)
 - Referensi:
   - Deliverables Pra GEMASTIK 2020: [Detail Deliverable Online ICT Business Development 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Pengembangan%20Bisnis%20TIK.pdf)
 
@@ -208,12 +208,12 @@ Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Da
 
 #### Deliverable ITB Online Hackathon
 
-- Mencari data yang relevan terhadap spesifikasi Gemastik 2021 (lomba level nasional)
-- Detail Pra-GEMASTIK XV Tahun 2021: [Detail Deliverable Online Hackathon Data Mining 2021](https://docs.google.com/document/d/183otRj31-XE-yaGkWI0C1pQIsfnyVaTcc3PHixlwdTg/edit?usp=sharing).
+- Mencari data yang relevan terhadap spesifikasi Gemastik 2022 (lomba level nasional)
+- Detail Pra-GEMASTIK XV Tahun 2022: [Detail Deliverable Online Hackathon Data Mining 2022](https://docs.google.com/document/d/183otRj31-XE-yaGkWI0C1pQIsfnyVaTcc3PHixlwdTg/edit?usp=sharing).
 - Melakukan studi literatur untuk data dan teknik deep learning terkait
 - Mengusulkan topologi & eksperimen
 - Dokumen yang dikumpulkan harus berisi:
-  - latar belakang pemilihan data dikaitkan dengan spesifikasi Gemastik 2021,
+  - latar belakang pemilihan data dikaitkan dengan spesifikasi Gemastik 2022,
   - deskripsi data,
   - rencana eksperimen termasuk usulan topologi
 - Referensi:
@@ -228,7 +228,7 @@ Lomba pemrograman menguji kemampuan dan nalar peserta dalam menyelesaikan progra
 
 #### Bahasa Pemrograman
 
-Bahasa pemrograman yang tersedia mengikuti GEMASTIK 2021, yakni **Java, C++, dan C**.
+Bahasa pemrograman yang tersedia mengikuti GEMASTIK 2022, yakni **Java, C++, dan C**.
 
 #### Referensi Soal Tahun Lalu
 
