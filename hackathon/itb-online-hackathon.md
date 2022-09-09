@@ -174,11 +174,11 @@ Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan beri
 
 #### Deskripsi
 
-Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK. Lomba ini memberikan kesempatan kepada peserta yang memiliki ide bisnis, start up dan pengembangan usaha yang berorientasi pada produk TIK, baik berupa jasa dan produk. Lomba ini akan menyeleksi ide pengembangan bisnis dalam bentuk ringkasan eksekutif pada penyisihan tahap pertama, kemudian business plan pada penyisihan tahap kedua, dan kompetisi produk beserta proyeksi bisnisnya
+Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK dengan tema untuk Gemastik ke XV adalah “Belajar lebih cepat, bangkit lebih kuat”. Lomba ini memberikan kesempatan kepada peserta yang memiliki ide bisnis start up dan pengembangan usaha yang berorientasi pada produk TIK, baik berupa jasa dan produk, dalam tahapan MVP (Minimum Viable Product). Lomba ini akan menyeleksi ide pengembangan bisnis dalam bentuk proposal bisnis dan proses perjalanan yang dilakukan oleh peserta dalam menemukan peluang dengan metodologi lean startup.
 
 #### Deliverable ITB Online Hackathon
 
-- Detail Deliverables : [Deliverable Online Hackathon Pra Gemastik 2022](https://docs.google.com/document/d/1SWfNQxdKHL18gRfCJ9VsaDvGBMEaDyHjoZXt1Agrsxs/edit?usp=sharing)
+- Detail Deliverables : [Deliverable Online Hackathon Pra Gemastik 2022](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#)
 - Referensi:
   - Deliverables Pra GEMASTIK 2020: [Detail Deliverable Online ICT Business Development 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Pengembangan%20Bisnis%20TIK.pdf)
 
@@ -186,11 +186,11 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK.
 
 #### Deskripsi
 
-Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya tulis mahasiswa dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penulisan ilmiah.
+Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya tulis mahasiswa dalam bentuk penuangan gagasan atau ide kreatif yang bersifat visioner dan implementatif untuk mencari solusi atas permasalahan bangsa yang siap terbit dengan mengikuti kaidah penulisan ilmiah. Pada Pra-Gemastik ITB 2022 ini, diharapkan peserta yang mengikuti cabang lomba ini mampu berinovasi dan menyajikan karya tulis ilmiah yang memberikan solusi dari segi TIK untuk kedaulatan bangsa.
 
 #### Deliverable ITB Online Hackathon
 
-- Detail deliverables dapat dilihat [disini](https://drive.google.com/file/d/16bT986oaLu0s1eMfC-NYyNCQep0fx5kM/view?usp=sharing)
+- Detail deliverables dapat dilihat [disini](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#)
 - Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI.
   - Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung.
   - Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
@@ -203,9 +203,7 @@ Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya
 
 #### Deskripsi
 
-Penambangan Data yang semakin banyak menarik perhatian baik di kalangan industri maupun akademik dunia dewasa ini, terutama dengan penggunaan deep learning yang merupakan suatu algoritma mutakhir.
-Keunggulan deep learning dibandingkan dengan algoritma konvensional adalah kemampuan untuk melatih jutaan bahkan milyaran parameter pembelajaran yang tersusun secara hierarkis multi lapis.
-Selain berkat terobosan algoritma, deep learning juga telah dimungkinkan berkat tersedianya stream data atau big data yang diperlukan untuk melatih parameter dalam jumlah raksasa tersebut.
+Penambangan data merupakan salah satu pekerjaan yang penting untuk penyelesaian banyak permasalahan nyata saat ini. Jenis data yang ditambang bisa beragam, termasuk data transaksi, gambar, dan teks/bahasa. Perkembangan penambangan data semakin pesat seiring dengan pesatnya perkembangan pembelajaran mesin. Dataset yang bisa diakses masyarakat semakin banyak terdapat di internet, sehingga proses penambangan data dirasa semakin penting untuk dilakukan. Para peserta lomba diharapkan mampu melakukan proses penambangan data yang tersedia di internet.
 
 Dengan adanya konvergensi antara deep learning dan big data telah terbukti mampu memberikan insight atau performa yang sama dengan bahkan melampaui human level performance.
 Para peserta lomba diharapkan mampu melakukan proses Penambangan Data terhadap big data yang tersedia secara publik di web serta sudah terverifikasi validitasnya.
@@ -214,7 +212,7 @@ Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Da
 #### Deliverable ITB Online Hackathon
 
 - Mencari data yang relevan terhadap spesifikasi Gemastik 2022 (lomba level nasional)
-- Detail Pra-GEMASTIK XV Tahun 2022: [Detail Deliverable Online Hackathon Data Mining 2022](https://docs.google.com/document/d/183otRj31-XE-yaGkWI0C1pQIsfnyVaTcc3PHixlwdTg/edit?usp=sharing).
+- Detail Pra-GEMASTIK XV Tahun 2022: [Detail Deliverable Online Hackathon Data Mining 2022](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#).
 - Melakukan studi literatur untuk data dan teknik deep learning terkait
 - Mengusulkan topologi & eksperimen
 - Dokumen yang dikumpulkan harus berisi:
