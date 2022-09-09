@@ -121,13 +121,14 @@ Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D
 
 #### Deskripsi
 
-Kota cerdas atau smart city adalah suatu konsep mengenai pemanfaatan data untuk mengelola kota/melayani masyarakat. Inovasi kota cerdas dirancang guna melayani dan membantu kegiatan masyarakat, terutama dalam mengelola sumber daya secara efisien dan memberikan kemudahan akses informasi kepada masyarakat hingga untuk mengantisipasi kejadian yang tidak terduga.
-Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berbagai macam data dan informasi dapat dikumpulkan dari sensor yang terpasang di setiap sudut kota, dianalisis oleh aplikasi cerdas, selanjutnya disajikan sesuai dengan kebutuhan pengguna melalui aplikasi yang dapat diakses oleh berbagai jenis gadget. Melalui gadget-nya, secara interaktif pengguna juga dapat menjadi sumber data, mereka mengirim informasi ke pusat data untuk dikonsumsi oleh pengguna yang laih.
+Kota Cerdas atau smart city adalah suatu konsep mengenai pemanfaatan data untuk mengelola kota/melayani masyarakat. Inovasi kota cerdas dirancang guna melayani dan membantu berbagai kegiatan masyarakat, terutama dalam mengelola sumber daya secara efisien dan memberikan kemudahan akses informasi kepada masyarakat hingga untuk mengantisipasi kejadian yang tidak terduga.
+
+Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berbagai macam data dan informasi dapat dikumpulkan dari sensor yang terpasang di setiap sudut kota, dianalisis oleh aplikasi cerdas, selanjutnya disajikan sesuai dengan kebutuhan pengguna melalui aplikasi yang dapat diakses oleh berbagai jenis gadget.Melalui gadget-nya, secara interaktif pengguna juga dapat menjadi sumber data, mereka mengirim informasi ke pusat data untuk dikonsumsi oleh pengguna yang lain. Smart City memerlukan proses bisnis yang baik karena teknologi yang canggih kalau proses bisnisnya tidak baik maka tidak dapat diimplementasikan dengan baik.
 
 #### Deliverable ITB Online Hackathon
 
 - Pembuatan aplikasi Smart City dengan spesifikasi sesuai Gemastik 2022
-- Detail Pra-GEMASTIK XV Tahun 2022: [Detail Deliverable Online Hackathon Smart City 2022](https://docs.google.com/document/d/1kmNtAeYZ93R2lhTAuFuApJtK0P7QPgiBfjinOXvuY_g/edit?usp=sharing).
+- Detail Pra-GEMASTIK XV Tahun 2022: [Detail Deliverable Online Hackathon Smart City 2022](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#).
 - Dokumen yang dikumpulkan adalah proposal dan video yang mencakup penjelasan dari masalah yang ingin diselesaikan, berbagai trend teknologi sekarang dan yang sudah ada, serta solusi teknologi yang diusulkan
 - Referensi:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Smart City 2020](https://gemastik.hmif.tech/assets/Panduan%20Pra%20Gemastik%20Smart%20City%20untuk%20Peserta.docx.pdf)
