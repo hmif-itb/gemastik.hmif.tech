@@ -7,7 +7,7 @@ redirect_from: "/ux"
 
 # Desain Pengalaman Pengguna
 
-## Panduan dapat di akses di [sini](https://pusatprestasinasional.kemdikbud.go.id/pengumuman/dikti/pengumuman-pagelaran-mahasiswa-nasional-bidang-teknologi-informasi-dan-komunikasi-tahun-2022-2022-dikti)
+## Panduan Lengkap dapat di akses di [sini](https://pusatprestasinasional.kemdikbud.go.id/pengumuman/dikti/pengumuman-pagelaran-mahasiswa-nasional-bidang-teknologi-informasi-dan-komunikasi-tahun-2022-2022-dikti)
 
 ## Deskripsi
 

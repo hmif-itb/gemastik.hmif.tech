@@ -137,15 +137,21 @@ Smart City merupakan impian bagi semua negara di dunia. Dengan Smart City, berba
 
 #### Deskripsi
 
-Piranti cerdas (smart device) adalah sebuah hasil karya teknologi yang bekerja secara interaktif, adaptif, dan otomatis, sehingga mampu memberikan solusi bagi permasalahan sehari-hari. Tingkat kecerdasan suatu piranti dapat dicapai dengan memanfaatkan suatu kecerdasan buatan (artificial intelligence) yang sesuai kebutuhan pemecahan masalah.
-Sementara itu sistem benam (embedded system) adalah sebuah piranti keras (hardware) yang bekerja berdasarkan perintah dari piranti lunak(software) dan didesain memiliki tujuan dan fungsi yang spesifik.
-Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dapat terciptanya sebuah sistem kompleks dengan kualitas yang baik. Dilengkapi antarmuka yang baik dan penggunaan sensor sebagai input dari keadaan lingkungan, piranti cerdas dapat bekerja secara efisien dan memberikan manfaat yang besar bagi lingkungan dan masyarakat.
+Piranti cerdas (smart device) adalah sebuah hasil karya teknologi yang bekerja secara interaktif, adaptif, dan otomatis, sehingga mampu memberikan suatu solusi bagi permasalahan sehari-hari. Tingkat kecerdasan suatu piranti dapat dicapai dengan memanfaatkan suatu kecerdasan buatan (artificial intelligent) yang sesuai dengan kebutuhan pemecahan masalah.
+
+Sementara itu sistem benam (embedded system) adalah sebuah piranti keras (hardware) yang bekerja berdasarkan perintah dari piranti lunak (software) dan didesain memiliki tujuan dan fungsi yang spesifik. Dengan menggabungkan konsep piranti cerdas dan sistem benam, maka diharapkan dapat terciptanya sebuah sistem kompleks memiliki kualitas yang baik. Dilengkapi dengan antarmuka yang baik dan penggunaan sensor sebagai input dari keadaan lingkungan, piranti cerdas dapat bekerja secara efisien dan memberikan manfaat yang besar bagi lingkungan dan masyarakat.
+
+Internet of Things (IoT) atau Internet untuk Segalanya adalah suatu konsep dimana objek tertentu punya kemampuan untuk mentransfer data lewat jaringan tanpa memerlukan adanya interaksi dari manusia ke manusia ataupun dari manusia ke perangkat komputer. IoT bertujuan untuk memperluas manfaat dari konektivitas internet yang tersambung secara terus-menerus, sehingga memiliki kemampuan untuk berbagi data, kendali jarak jauh, dan sebagainya, termasuk juga pada benda di dunia nyata.
+
+Tim peserta cabang lomba Piranti Cerdas, Sistem Benam, dan IoT ini diharapkan dapat mengembangkan suatu piranti cerdas yang menerapkan algoritma kecerdasan buatan tertentu, mengimplementasikannya dalam suatu sistem benam, serta menghubungkannya dengan jaringan internet untuk mengetahui dan memberikan respon adaptasi dengan situasi lingkungannya. Tingkat kecerdasan yang dimiliki oleh piranti tersebut dapat dikembangkan dari proses belajar mandiri ataupun dengan memanfaatkan data pengukuran jaringan sendor dan hasil belajar yang telah tersedia 55 di lingkungan, yang diperoleh melalui keterhubungan dengan jaringan internet.
+
+Piranti yang dibangun tersebut merupakan elemen sistem keterhubungan yang diharapkan dapat memberikan manfaat bagi peningkatan kesejahteraan masyarakat dalam bidang pertanian, perkebunan, kehutanan, peternakan, perikanan dan keluatan, peningkatan produksi pangan, sistem logistik, pembangkitan dan penghematan energi, instrumentasi dan kendali elektronik kewilayahan, transportasi cerdas, pengendalian dan mitigasi bencana, sistem keamanan cerdas, penyelematan lingkungan hidup, sistem aplikasi berbasis pemetaan geografis, dunia kesehatan, teknologi asistif untuk disabilitas atau pasien yang sakit, sistem perdagangan elektronik, literasi ekonomi digital, perangkat rumah tangga cerdas, automasi cerdas di industri, dan sebagainya.
 
 #### Deliverable ITB Online Hackathon
 
 - Dokumen ide dan desain (jika ada prototype, akan lebik baik)
 - Video yang menceritakan tahapan pengembangan ide dan perancangan karya inovasi, menjelaskan manfaat dari karya yang diusulkan, serta penjelasan cara menggunakannya. Durasi video maksimal 3 menit, diunggah ke YouTube. Tautan video tersebut dicantumkan pada dokumen.
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Piranti Cerdas 2022](https://docs.google.com/document/d/1FhqWFv8nlRxSdy7iPtRdn0Q9841FWQU6lCjJRs7vAx0/edit?usp=sharing)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Piranti Cerdas 2022](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#)
 - Referensi:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas2.pdf)
   <!-- - Jika ada  pertanyaan lebih lanjut silahka bisa ditanyakan di email : kusprasapta.mutijarsa@gmail.com -->
@@ -162,7 +168,7 @@ Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan beri
 - Yang dikumpulkan: game design document
 - Kriteria: keseruan game, art dan teknis yang bagus
   (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Game Development 2022](https://docs.google.com/document/d/1rfnpie67aVZKQZJWCXpIvM9hmhW9vUfuSOtSrYuK2gY/edit?usp=sharing)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Game Development 2022](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#)
 
 ### 6. ICT Business Development
 
