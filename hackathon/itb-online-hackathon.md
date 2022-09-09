@@ -107,13 +107,13 @@ Lomba Desain Pengalaman Pengguna (UX Design) adalah lomba desain interaksi produ
 
 #### Deskripsi
 
-Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D yang mengandung unsur kreativitas dan inovasi pemuda untuk menciptakan masyarakat yang berdikari, sehat serta mandiri berbasis TIK untuk kedaulatan bangsa, sebagai elemen penting dalam karya cipta tersebut. Karya berbentuk film pendek dari bentuk digital animation.
+Animasi merupakan sebuah lomba karya cipta dalam bentuk visualisasi 2D maupun 3D yang mengandung unsur kreativitas dan inovasi pemuda untuk menciptakan masyarakat yang berdikari, sehat serta TIK untuk Indonesia Bangkit Menuju Kehidupan Bangsa yang Lebih Baik. Karya berbentuk film pendek dari bentuk digital animation.
 
 #### Deliverable ITB Online Hackathon
 
 - Spesifikasi karya animasi sesuai dengan spesifikasi dari GEMASTIK 2022
 - Yang dikumpulkan adalah Animatic Storyboard yang mengandung ide penceritaan dan desain visual
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Animation 2022](https://docs.google.com/document/d/13cPyqbfmmcj55eVV959qKqOcio_TdNnsuYw30QCbdu4/edit?usp=sharing)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Animation 2022](https://docs.google.com/document/d/1z2s9NHVL2M65rQLbPJmJtJVQj7sTx8SIqToqCY_qFrI/edit#)
 - Referensi:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Animasi 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Animasi.pdf)
 

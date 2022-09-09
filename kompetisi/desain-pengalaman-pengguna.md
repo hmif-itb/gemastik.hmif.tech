@@ -7,7 +7,7 @@ redirect_from: "/ux"
 
 # Desain Pengalaman Pengguna
 
-## Panduan dapat di akses di [sini](https://docs.google.com/document/d/1yLPakdNyCzgAnGhju_Ek3CKqEsrF0qZo8p21n2S6UdU/edit#heading=h.4jypdeyrqx9l)
+## Panduan dapat di akses di [sini](https://pusatprestasinasional.kemdikbud.go.id/pengumuman/dikti/pengumuman-pagelaran-mahasiswa-nasional-bidang-teknologi-informasi-dan-komunikasi-tahun-2022-2022-dikti)
 
 ## Deskripsi
 
