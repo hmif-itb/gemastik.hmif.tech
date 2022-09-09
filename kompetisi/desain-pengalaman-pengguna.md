@@ -67,11 +67,11 @@ Karya yang diusulkan harus memenuhi kriteria-kriteria sebagai berikut:
 
 ## Timeline
 
-- Pendaftaran: 15 Juni 2022 - 15 Juli 2022
-- Batas Unggah Proposal: 29 Juli 2022
-- Masa Penjurian Babak Penyisihan: 31 Juli 2022 - 10 Agustus 2022
-- Pengumuman Babak Penyisihan: 12 Agustus 2022
-- Babak Final: 4 - 7 Oktober 2022
+- Pendaftaran: 2 Sept – 1 Okt 2022
+- Batas Unggah Proposal: 22 Sept - 16 Okt 2022
+- Masa Penjurian Babak Penyisihan: 17 Okt – 28 Okt 2022
+- Pengumuman Babak Penyisihan: 31 Okt 2022
+- Babak Final: 15-18 Nov 2022
 
 ## Pembimbingan
 
