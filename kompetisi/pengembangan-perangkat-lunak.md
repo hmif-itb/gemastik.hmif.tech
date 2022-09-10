@@ -15,8 +15,8 @@ Produk perangkat lunak yang dihasilkan harus bisa dioperasikan sehingga dampak t
 Skill set: Programming, Problem Solving, Software Development Life Cycle, Database, Ability using framework
 
 ## Timeline
-- Pendaftaran: 15 Juni 2022 - 15 Juli 2022
-- Batas Unggah Proposal: 29 Juli 2022
-- Masa Penjurian Babak Penyisihan: 31 Juli 2022 - 10 Agustus 2022
-- Pengumuman Babak Penyisihan: 12 Agustus 2022
-- Babak Final: 4 - 7 Oktober 2022
+- Pendaftaran: 2 September 2022 - 1 Oktober 2022
+- Batas Unggah Proposal: 23 Oktober 2022
+- Masa Penjurian Babak Penyisihan: 17 Oktober 2022 - 28 Oktober 2022
+- Pengumuman Babak Penyisihan: 31 Oktober 2022
+- Babak Final: 15 - 18 November 2022
