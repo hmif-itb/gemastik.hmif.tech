@@ -151,7 +151,7 @@ Piranti yang dibangun tersebut merupakan elemen sistem keterhubungan yang dihara
 
 - Dokumen ide dan desain (jika ada prototype, akan lebik baik)
 - Video yang menceritakan tahapan pengembangan ide dan perancangan karya inovasi, menjelaskan manfaat dari karya yang diusulkan, serta penjelasan cara menggunakannya. Durasi video maksimal 3 menit, diunggah ke YouTube. Tautan video tersebut dicantumkan pada dokumen.
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Piranti Cerdas 2022](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Piranti Cerdas 2022](https://docs.google.com/document/d/11k7Y47xmZNKtrGX2XxAcROIFQYmF5mx12ZB8qdBx1dw/edit)
 - Referensi:
   - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Piranti Cerdas 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Piranti%20Cerdas2.pdf)
   <!-- - Jika ada  pertanyaan lebih lanjut silahka bisa ditanyakan di email : kusprasapta.mutijarsa@gmail.com -->
@@ -168,7 +168,7 @@ Lomba pengembangan aplikasi permainan mendorong peserta untuk berkreasi dan beri
 - Yang dikumpulkan: game design document
 - Kriteria: keseruan game, art dan teknis yang bagus
   (catatan: bisa dengan mengambil mekanik dan desain game yang sudah ada dan memodifikasi konten)
-- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Game Development 2022](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#)
+- Detail Deliverables Pra-GEMASTIK XV Tahun 2022: [Deliverables Game Development 2022](https://docs.google.com/document/d/1fAxUTE-E_-yJ3RjnfbLu-IcKGSW0r4OXTypL8b9zgbc/edit?usp=sharing)
 
 ### 6. ICT Business Development
 
@@ -178,7 +178,7 @@ Kategori lomba ini adalah kompetisi pengembangan model bisnis dengan produk TIK 
 
 #### Deliverable ITB Online Hackathon
 
-- Detail Deliverables : [Deliverable Online Hackathon Pra Gemastik 2022](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#)
+- Detail Deliverables : [Deliverable Online Hackathon Pra Gemastik 2022](https://docs.google.com/document/d/1j50oTKYCRmAKT__WPNdu8RBpqjWqiRxMCJItubo1ZYE/edit?usp=sharing)
 - Referensi:
   - Deliverables Pra GEMASTIK 2020: [Detail Deliverable Online ICT Business Development 2020](https://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20Divisi%20Pengembangan%20Bisnis%20TIK.pdf)
 
@@ -190,7 +190,7 @@ Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya
 
 #### Deliverable ITB Online Hackathon
 
-- Detail deliverables dapat dilihat [disini](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#)
+- Detail deliverables dapat dilihat [disini](https://docs.google.com/document/d/1SDZ6oGfCsD4KYf_VyLMkWuRsE4XZmetuMzuR3UspI_w/edit?usp=sharing)
 - Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI.
   - Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung.
   - Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
@@ -212,7 +212,7 @@ Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Da
 #### Deliverable ITB Online Hackathon
 
 - Mencari data yang relevan terhadap spesifikasi Gemastik 2022 (lomba level nasional)
-- Detail Pra-GEMASTIK XV Tahun 2022: [Detail Deliverable Online Hackathon Data Mining 2022](https://docs.google.com/document/d/1VzUB8IrGbZp7dOXX7iSMSnyrJsuQgNdlwWi73956zV4/edit#).
+- Detail Pra-GEMASTIK XV Tahun 2022: [Detail Deliverable Online Hackathon Data Mining 2022](https://docs.google.com/document/d/1nINkK-hdnzeoDF-3II8xfUb7OjJM5Q8nSyoW9DxijRc/edit?usp=sharing).
 - Melakukan studi literatur untuk data dan teknik deep learning terkait
 - Mengusulkan topologi & eksperimen
 - Dokumen yang dikumpulkan harus berisi:
@@ -253,7 +253,7 @@ Skill set: Programming, Problem Solving, Software Development Life Cycle, Databa
 
 #### Deliverable ITB Online Hackathon
 
-Deliverables dapat di akses pada link berikut [Panduan Pra Gemastik PPL](https://docs.google.com/document/d/1THkp_F7nuTk3Ij3hpVMvpBR1GFLXIw4schs4piqJS9o/edit?usp=sharing)
+Deliverables dapat di akses pada link berikut [Panduan Pra Gemastik PPL](https://docs.google.com/document/d/1oxm2E1xpy5ZotYfsm74fYd9r-NhA4VhthQWHJDpaMwk/edit?usp=sharing)
 
 ## Contact Person
 
