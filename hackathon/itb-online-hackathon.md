@@ -22,8 +22,8 @@ Secara umum acara Pra-Gemastik 15 dimulai dari tanggal **11 September 2022 Hingg
 | :------------------------------------------ | :-----------------------: |
 | Batas Pendaftaran                           |        2 Juli 2022        |
 | Mulai Pelaksanaan Pra-GEMASTIK 15           | 11 Sep 2022 - 18 Sep 2022 |
-| Pelaksanaan Bidang Lomba Pemrograman        |           (TBA)           |
-| Batas Pengumpulan Selain Bidang Pemrograman |           (TBA)           |
+| Pelaksanaan Bidang Lomba Pemrograman        |        18 Sep 2022        |
+| Batas Pengumpulan Selain Bidang Pemrograman |        18 Sep 2022        |
 | Pengumuman Pemenang                         |        22 Sep 2022        |
 
 **Pelaksanaan pra-gemastik untuk sementara akan ditunda menunggu timeline dari puspresnas**.
@@ -241,6 +241,10 @@ Untuk melihat referensi, Anda dapat melihatnya pada link [ini](https://cp-itb.gi
 
 Setiap tim yang terdaftar akan diberikan akun untuk mengerjakan soal pemrograman pada platform yang dapat diakses [cp.hmif.tech](https://cp.hmif.tech/)
 
+#### Pelaksanaan pemanasan Bidang Pemrograman
+
+17 September 2022, 09.00 - 12.00 WIB  
+  
 ### 10. Pengembangan Perangkat Lunak
 
 #### Deskripsi
