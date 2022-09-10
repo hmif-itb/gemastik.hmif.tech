@@ -14,8 +14,8 @@ Daya analisis dan kreativitas peserta ditantang untuk mencari kelemahan dalam su
 Skill set: Programming, Web Security, Cryptography, Reverse Engineering, Binary Exploitation, Digital Forensic
 
 ## Timeline
-- Pendaftaran: 15 Juni 2022 - 15 Juli 2022
-- Pemanasan: 31 Juli 2022
-- Babak Penyisihan: 7 Agustus 2022
-- Pengumuman Babak Penyisihan: 12 Agustus 2022
-- Babak Final: 4 - 7 Oktober 2022
+- Pendaftaran: 2 September 2022 - 1 Oktober 2022
+- Pemanasan: 16 Oktober 2022
+- Babak Penyisihan: 23 Oktober 2022
+- Pengumuman Babak Penyisihan: 31 Oktober 2022
+- Babak Final: 15 - 18 November 2022
