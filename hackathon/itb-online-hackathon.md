@@ -20,8 +20,8 @@ Secara umum acara Pra-Gemastik 15 dimulai dari tanggal **11 September 2022 Hingg
 
 | Nama                                        |          Tanggal          |
 | :------------------------------------------ | :-----------------------: |
-| Batas Pendaftaran                           |        2 Juli 2022        |
-| Mulai Pelaksanaan Pra-GEMASTIK 15           | 11 Sep 2022 - 18 Sep 2022 |
+| Batas Pendaftaran                           |        18 Sep 2022 23.59  WIB      |
+| Mulai Pelaksanaan Pra-GEMASTIK 15           |        11 Sep 2022        |
 | Pelaksanaan Bidang Lomba Pemrograman        |        18 Sep 2022        |
 | Batas Pengumpulan Selain Bidang Pemrograman |        18 Sep 2022        |
 | Pengumuman Pemenang                         |        22 Sep 2022        |
