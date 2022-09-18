@@ -20,11 +20,11 @@ Secara umum acara Pra-Gemastik 15 dimulai dari tanggal **11 September 2022 Hingg
 
 | Nama                                        |          Tanggal          |
 | :------------------------------------------ | :-----------------------: |
-| Batas Pendaftaran                           |        18 Sep 2022 23.59  WIB      |
+| Batas Pendaftaran                           |        28 Sep 2022 23.59  WIB      |
 | Mulai Pelaksanaan Pra-GEMASTIK 15           |        11 Sep 2022        |
 | Pelaksanaan Bidang Lomba Pemrograman        |        18 Sep 2022        |
-| Batas Pengumpulan Selain Bidang Pemrograman |        18 Sep 2022 23.59  WIB       |
-| Pengumuman Pemenang                         |        22 Sep 2022        |
+| Batas Pengumpulan Selain Bidang Pemrograman |        28 Sep 2022 23.59  WIB       |
+| Pengumuman Pemenang                         |        1 Okt 2022        |
 
 **Pelaksanaan pra-gemastik untuk sementara akan ditunda menunggu timeline dari puspresnas**.
 Informasi kepastian pelaksanaan lebih lanjut akan diberikan melalui **e-mail** ataupun **Grup Line** yang nanti akan dibuat.
@@ -53,7 +53,7 @@ Batas Pengumpulan: **(TBA)**
 Pendaftaran bisa diakses pada link ini: bit.ly/DaftarPraGemastik2022
 
 Mengingatkan bahwa batas pendaftaran adalah **2 Juli 2022**.
-
+Sep
 ## Problem Statement
 
 Semua Problem Statement dalam ITB Hackathon Pra Gemastik mengikuti Spesifikasi Gemastik 2022 dengan deliverables yang lebih sederhana.
