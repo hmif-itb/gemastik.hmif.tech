@@ -187,13 +187,23 @@ Lomba Karya Tulis Ilmiah mendorong peserta untuk menumbuhkembangkan sebuah karya
 #### Deliverable ITB Online Hackathon
 
 - Detail deliverables dapat dilihat [disini](https://docs.google.com/document/d/1SDZ6oGfCsD4KYf_VyLMkWuRsE4XZmetuMzuR3UspI_w/edit?usp=sharing)
-- Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup LATAR BELAKANG MASALAH dan USULAN SOLUSI TEKNOLOGI TIK beserta DESKRIPSI SOLUSI.
-  - Latar belakang masalah perlu dilengkapi dengan informasi data yang mendukung.
-  - Jumlah halaman maksimum adalah 4 halaman dengan jenis huruf times new roman, ukuran 12pt, dan spasi 1.5
-  - Referensi:
-    - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Karya Tulis TIK 2020](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
-    - PPT Cara menulis karya tulis ilmiah dapat diunduh [disini](http://gemastik.hmif.tech/assets/Cara-Menulis-Makalah-Ilmiah.pptx).
-    - PPT Technical Meeting dapat diunduh [disini](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
+- Artikel Karya Tulis Ilmiah TIK (dalam bahasa Indonesia) yang dikumpulkan mencakup:
+  - Halaman sampul dan halaman pengesahan (terdapat di detail deliverables)
+  - Judul dan nama penulis
+  - Abstrak
+  - Pendahuluan
+  - Tujuan
+  - Metode
+  - Hasil dan Pembahasan
+  - Kesimpulan
+  - Ucapan Terima Kasih
+  - Daftar Pustaka
+  - Lampiran-lampiran
+- Penulisan artikel menggunakan templat dari [IEEE](https://www.ieee.org/conferences/publishing/templates.html) dengan ukuran kertas A4.
+- Referensi:
+  - Detail dapat dilihat di : [Detail Deliverable Online Hackathon Karya Tulis TIK 2020](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
+  - PPT Cara menulis karya tulis ilmiah dapat diunduh [disini](http://gemastik.hmif.tech/assets/Cara-Menulis-Makalah-Ilmiah.pptx).
+  - PPT Technical Meeting dapat diunduh [disini](http://gemastik.hmif.tech/assets/Panduan%20ITB%20Pra-Gemastik%202020%20-%20Divisi%20KTI.pptx)
 
 ### 8. Data Mining
 
@@ -207,14 +217,22 @@ Langkah peserta selanjutnya adalah memvisualisasikan hasil proses Penambangan Da
 
 #### Deliverable ITB Online Hackathon
 
-- Mencari data yang relevan terhadap spesifikasi Gemastik 2022 (lomba level nasional)
+- Mencari data yang relevan terhadap spesifikasi Gemastik 2022 (lomba level nasional) (dapat dilihat pada [Problem Statement](#problem-statement))
 - Detail Pra-GEMASTIK XV Tahun 2022: [Detail Deliverable Online Hackathon Data Mining 2022](https://docs.google.com/document/d/1nINkK-hdnzeoDF-3II8xfUb7OjJM5Q8nSyoW9DxijRc/edit?usp=sharing).
 - Melakukan studi literatur untuk data dan teknik deep learning terkait
-- Mengusulkan topologi & eksperimen
-- Dokumen yang dikumpulkan harus berisi:
-  - latar belakang pemilihan data dikaitkan dengan spesifikasi Gemastik 2022,
-  - deskripsi data,
-  - rencana eksperimen termasuk usulan topologi
+- Makalah yang dikumpulkan harus berisi:
+  - Judul makalah
+  - Abstrak
+  - Pendahuluan yang terdiri dari
+    - Latar belakang pemilihan data dikaitkan dengan spesifikasi Gemastik 2022
+    - Tujuan
+    - Manfaat
+    - Batasan
+  - Deskripsi dan analisis persoalan
+  - Studi literatur
+  - Metode eksperimen dan implementasinya
+  - Hasil eksperimen dan pembahasan hasil
+  - Kesimpulan
 - Referensi:
   - File Technical meeting data mining 2020 : [klik disini](https://gemastik.hmif.tech/assets/Data%20Mining%20GEMASTIK%20ITB%20.pdf)
   - File Quick Tips & Trick oleh Christian W. : [klik disini](https://gemastik.hmif.tech/assets/Sharing%20Data%20Mining%20-%20Gemastik%20-%20CW.pdf)
